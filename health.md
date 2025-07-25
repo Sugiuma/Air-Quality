@@ -16,3 +16,11 @@
 [8]: https://ehp.niehs.nih.gov/doi/10.1289/JHP1375?utm_source=chatgpt.com "Indo-US Conference on Climate Change Impacts on Occupational and Environmental Health (CliCON-OEH 2025) | Environmental Health Perspectives | Vol. 13, No. 1"
 [9]: https://archpublichealth.biomedcentral.com/articles/10.1186/s13690-025-01616-1?utm_source=chatgpt.com "Association of frailty with indoor air pollution among older adults and elderly population as per gender and age group: insights from Longitudinal Aging Study in India (LASI-1st Wave) | Archives of Public Health | Full Text"
 [10]: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GH000968?utm_source=chatgpt.com "Air Pollution and Mortality in India: Investigating the Nexus of Ambient and Household Pollution Across Life Stages - Adhikary - 2024 - GeoHealth - Wiley Online Library"
+
+
+| **Age Group**                   | **Health Impact Summary**                                                                                   |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Newborns & Children <5**     | Mortality risk >2× in districts exceeding PM₂.₅ limits; increased stunting, anemia, ARI due to pollution.  |
+| **Young Adults (18–30)**       | High rates of respiratory symptoms during pollution episodes; loss in school/work productivity.            |
+| **Middle-aged & Older Adults** | Elevated frailty and cognitive decline risk from indoor biomass smoke; long-term pollution → higher mortality. |
+| **Overall**                    | Health burden spans all ages; requires age-targeted interventions.                                          |

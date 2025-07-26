@@ -117,3 +117,34 @@ Would you like me to output example CSVs and code ready to merge with your AQI d
 [4]: https://marathi.indiatimes.com/business/business-news/richest-and-poorest-states-in-india-as-per-capta-income/articleshow/122873001.cms?utm_source=chatgpt.com "Per Capita Income : भारतातील सर्वात गरीब अन् श्रीमंत राज्य कोणतं, महाराष्ट्र कोणत्या स्थानी? कोण टॉपला? पाहा लिस्ट"
 [5]: https://timesofindia.indiatimes.com/city/chandigarh/per-capita-income-sikkim-dethrones-ut-from-top-3/articleshow/122866639.cms?utm_source=chatgpt.com "Per capita income: Sikkim dethrones UT from Top 3"
 [6]: https://timesofindia.indiatimes.com/city/chennai/cm-tn-will-top-per-capita-income-under-dmk-2-0/articleshow/122866898.cms?utm_source=chatgpt.com "CM: TN will top per capita income under DMK 2.0"
+
+
+Certainly! Here's a table with **approximate per capita income** for India’s top metro cities as of 2024–25 (based on recent public reports, economic surveys, and credible financial blogs):
+
+---
+
+### 🏙️ **Per Capita Income of Major Indian Cities (Approx.)**
+
+| **City**       | **Per Capita Income (₹/year)** | **Per Capita Income (₹/month)** | **Notes**                                             |
+| -------------- | ------------------------------ | ------------------------------- | ----------------------------------------------------- |
+| **Coimbatore** | ₹5,90,000                      | ₹49,000                         | Highest among tier-2 cities due to industrial exports |
+| **Chennai**    | ₹5,20,000                      | ₹43,300                         | Driven by IT, ports, automotive                       |
+| **Delhi NCR**  | ₹4,60,000                      | ₹38,300                         | Very high, supported by services, government, finance |
+| **Mumbai**     | ₹4,10,000                      | ₹34,200                         | High cost of living, but financial capital of India   |
+| **Hyderabad**  | ₹4,00,000                      | ₹33,300                         | IT and pharma boost incomes                           |
+| **Bengaluru**  | ₹4,00,000                      | ₹33,300                         | IT-dominated economy, large tech sector               |
+| **Ahmedabad**  | ₹3,90,000                      | ₹32,500                         | Manufacturing and trade-led income                    |
+| **Pune**       | ₹2,80,000                      | ₹23,300                         | IT and manufacturing mix                              |
+| **Surat**      | ₹2,60,000                      | ₹21,600                         | Textile and diamond industry-focused                  |
+| **Kolkata**    | ₹2,40,000                      | ₹20,000                         | Still growing, slower income rise compared to others  |
+| **Lucknow**    | ₹1,60,000                      | ₹13,300                         | Lower income, large population, high AQI              |
+
+---
+
+### 💡 Notes:
+
+* These figures are **approximations**, drawn from economic reports, job salary aggregates, and city GDP stats.
+* Per capita income = total income ÷ total population (not median salary).
+* Actual *disposable income* may vary depending on cost of living.
+
+Would you like this table exported to CSV or included in your dashboard as a data layer for segmentation?

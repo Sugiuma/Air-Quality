@@ -1,6 +1,6 @@
 ## **Current air purifier competitors in India** 
 
-## Major Brands & Strengths
+### Major Brands & Strengths
 
 ### **Xiaomi (Mi Air Purifier series)**
 
@@ -95,7 +95,7 @@
 
 ### **Feature Comparison Chart**
 
-| Feature / Brand                    | Xiaomi Mi 3/4            | Coway AirMega | Philips AC2887 | Sharp FP-F40E | **Airpure Purifiers**               |
+| Feature / Brand                    | Xiaomi Mi 3/4            | Coway AirMega | Philips AC2887 | Sharp FP-F40E | **Our Product**               |
 | ---------------------------------- | ------------------------ | ------------- | -------------- | ------------- | ---------------------------------- |
 | **CADR (Clean Air Delivery Rate)** | 350–400 m³/hr            | 303 m³/hr     | 333 m³/hr      | 240 m³/hr     | **400+ m³/hr** ✅                   |
 | **True HEPA (H13+)**               | H11‑H12                  | H13           | H13            | H12           | **H13–H14** ✅                      |

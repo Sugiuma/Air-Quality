@@ -1,8 +1,4 @@
-You can estimate **public awareness of poor AQI and related health effects** in India’s **Tier‑1 and Tier‑2 cities** using a blend of data sources and computational analysis. Here's a roadmap:
-
----
-
-## 📦 1. Where to Get Public Awareness Data
+## Public Awareness Data
 
 ### a) **Perception Surveys**
 
@@ -22,98 +18,8 @@ Use this as your baseline for **Tier‑1** and many **Tier‑2** cities.
 
 * Example: Delhi’s *MY Bharat* student-based awareness program spanning 130 cities with structured monthly outreach via schools and eco‑clubs ([The Times of India][5])
 
----
 
-## 🔍 2. Analytical Framework & Python Code Example
-
-You can combine:
-
-* Survey data (awareness percentages)
-* Keyword search trends (e.g. Google Trends)
-* Social media volume & sentiment (e.g. Twitter/X)
-* Outreach activity data (e.g. school programs by city)
-* News coverage volume
-
-### Example Python Pipeline (pseudo-code):
-
-```python
-import pandas as pd
-from pytrends.request import TrendReq
-import snscrape.modules.twitter as sntwitter
-from sklearn.preprocessing import minmax_scale
-
-# 1. Survey data: load manually from Clean Air study or a newer one
-survey = pd.read_csv('awareness_survey.csv')  # city, pct_heard_pollution, pct_heard_AQI
-
-# 2. Google Trends: search interest for 'AQI' by Indian city
-pytrends = TrendReq()
-city_interest = []
-for city in survey['city']:
-    kw = pytrends.build_payload([f"{city} AQI", "PM2.5"], geo='IN', timeframe='today 12-m')
-    df = pytrends.interest_by_region(resolution='CITY')
-    city_interest.append(df.loc[city, "AQI"])
-
-survey['search_index'] = city_interest
-
-# 3. Twitter X mentions volume per city
-def count_tweets(city, term, since='2024-01-01'):
-    query = f'{term} near:"{city}, India" since:{since}'
-    return sum(1 for _ in sntwitter.TwitterSearchScraper(query).get_items() if _)
-
-survey['tweet_count'] = [count_tweets(city, 'AQI') for city in survey['city']]
-
-# 4. School outreach: load or estimate counts (e.g. Delhi's 130 cities data)
-outreach = pd.read_csv('my_bharat_outreach.csv')  # city, events
-survey = survey.merge(outreach, on='city', how='left').fillna(0)
-
-# Normalize indicators between 0–1
-for col in ['pct_heard_AQI','search_index','tweet_count','events']:
-    survey[col+'_norm'] = minmax_scale(survey[col])
-
-# Composite awareness score
-survey['awareness_score'] = (
-    0.4 * survey['pct_heard_AQI_norm'] +
-    0.3 * survey['search_index_norm'] +
-    0.2 * survey['tweet_count_norm'] +
-    0.1 * survey['events_norm']
-)
-
-survey[['city','awareness_score']].sort_values('awareness_score', ascending=False)
-```
-
-You can tweak:
-
-* Weights (e.g. more weight on direct survey responses vs. social media)
-* Timeframes & keywords (could use “air purifier”, “mask”, “PM2.5 health”)
-* Sentiment analysis on tweets/posts to gauge depth of awareness or concern
-
----
-
-## 📊 3. Building a Dashboard
-
-Using the resulting `survey` DataFrame:
-
-* **Map**: display cities colored by awareness score
-* **Bar plot**: scores by tier (Tier‑1 vs Tier‑2)
-* **Time series**: trends in search/tweet volume over time
-
-You could use:
-
-* Plotly/Folium (Python)
-* Dash or Streamlit for interactivity
-* Add public health metrics: local AQI exposure, hospital admission rates for respiratory issues (if available)
-
----
-
-## 🧪 4. Additional Considerations
-
-* **Local vs national** survey sources: The 2018 study is dated; you may need to commission new data or find more recent local surveys.
-* **COVID-era responses** may affect pollutant awareness and mask usage, especially in Tier‑2 cities ([societyforindoorenvironment.org][6], [PMC][7], [arXiv][8], [Reddit][9], [The Times of India][5], [The Hindu][10], [PMC][4]).
-* **Field pilots**: innovations like “pollution walks” (live PM2.5 measurement and pre/post surveys) have proven effective in raising awareness in cities like Kolkata ([gc.copernicus.org][11]).
-
----
-
-## ✅ Summary
+## Summary
 
 | Step                  | Data Source                         | Method                         |
 | --------------------- | ----------------------------------- | ------------------------------ |

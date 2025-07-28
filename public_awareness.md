@@ -82,20 +82,7 @@ Example:
 snscrape --max-results 1000 'AQI near:"Delhi, India" since:2024-01-01' > tweets.txt
 ```
 
----
-
-## 📰 4. **News Media Coverage**
-
-### ✅ **GDELT Project**
-
-* Global news database with article metadata, topics, tone, geolocation
-* Filter by keywords like “AQI”, “pollution”, “PM2.5”, etc.
-* 🔗 [https://www.gdeltproject.org/](https://www.gdeltproject.org/)
-* 🔧 Use BigQuery or download CSVs for news volume per city
-
----
-
-## 🎓 5. **Outreach & Education Campaign Data**
+## 🎓 4. **Outreach & Education Campaign Data**
 
 ### ✅ **Delhi NCR & MY Bharat Eco Club Programs**
 
@@ -139,19 +126,6 @@ For a cleaned version:
   * [ICMR-NIE](https://nie.icmr.org.in/)
   * [PRS India: Health Stats](https://prsindia.org/policy/vital-stats)
   * [National Health Profile Reports](https://cbhidghs.nic.in/)
-
----
-
-## 🌫️ 9. **AQI & Pollution Exposure**
-
-### ✅ **CPCB / OpenAQ / WAQI / SAFAR**
-
-* Use AQI as base exposure; awareness often correlates with extreme events
-* Sources:
-
-  * [OpenAQ API](https://docs.openaq.org/)
-  * [SAFAR India (Govt)](https://safar.tropmet.res.in/)
-  * [WAQI API](https://aqicn.org/api/)
 
 ---
 

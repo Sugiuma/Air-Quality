@@ -1,6 +1,6 @@
 ## **Current air purifier competitors in India** 
 
-## 🏆 Major Brands & Strengths
+## Major Brands & Strengths
 
 ### **Xiaomi (Mi Air Purifier series)**
 
@@ -114,7 +114,7 @@
 
 
 
-### 🚀 Key Features Your Product Should Include (To Stand Out)
+### Key Features our new Product Should Include
 
 | Category            | Must-Have Features                                                                                      |
 | ------------------- | ------------------------------------------------------------------------------------------------------- |

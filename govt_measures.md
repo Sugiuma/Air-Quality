@@ -16,3 +16,10 @@
 * Research papers on policy impact (via Google Scholar)
 
 
+National Clean Air Programme (NCAP): Launched in 2019 to target a 20–30% reduction in particulate matter (PM2.5 and PM10) concentrations by 2024, using 2017 as the baseline. The NCAP covers 131 non-attainment cities and provides significant funding for air quality monitoring, city action plans, and public awareness.
+Emission Standards: Stricter standards for industry (National Ambient Air Quality Standards, or NAAQS) and vehicles (BS-VI emission norms) have been enforced to reduce emissions at the source.
+Cleaner Fuels and Renewable Energy: Promotion of LPG for cooking (replacing biomass), targeting 500 GW of renewable electricity by 2030, and subsidies for clean energy.
+Graded Response Action Plan (GRAP): Implemented in cities like Delhi-NCR, GRAP activates stricter measures during high-pollution periods, including construction dust control, waste management, restricting vehicular and industrial activity, and public advisories.
+Waste Management Initiatives: Door-to-door waste segregation, composting, promotion of recycling, and strict industrial waste enforcement help control open burning and landfill emissions.
+Technological and Data-Driven Solutions: Investment in large-scale continuous air quality monitoring networks, use of machine learning/AI for pollution prediction, real-time public air quality updates, and even pioneering emissions trading in states like Gujarat.
+Urban Greening and Public Transit Upgrades: Expanding green spaces and encouraging e-vehicles and public transportation as alternatives to private vehicle use.

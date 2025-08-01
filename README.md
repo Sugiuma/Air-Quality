@@ -28,3 +28,17 @@ with multiple contributing factors, and solutions require a multi-pronged approa
 AI responses may include mistakes.
 
 [1] https://www.youtube.com/watch?v=XZPOQfvBBU8[2] https://www.quora.com/Why-is-there-so-much-pollution-in-North-India-compared-to-South-India[3] https://www.thehindubusinessline.com/data-stories/data-focus/air-quality-during-diwali-worse-in-north-india-compared-to-south-india/article68859706.ece[4] https://breathesafeair.com/air-pollution-in-india/[5] https://www.quora.com/Why-does-South-India-have-a-much-better-air-quality-than-North-India-Is-South-India-or-South-Indians-more-developed-than-North-Indians[6] https://www.quora.com/Why-are-North-Indian-cities-dirtier-than-South-Indian-cities[7] https://www.vox.com/climate/387135/india-pakistan-air-pollution-delhi-lahore-aqi[8] https://factly.in/aqi-data-clear-difference-in-aqi-levels-between-north-south-indian-cities-observed/[9] https://getuhoo.com/blog/home/how-seasonal-changes-affect-air-quality-index-aqi/[10] https://www.aqi.in/blog/air-pollution-in-the-us-and-india/[11] https://www.downtoearth.org.in/pollution/cse-report-finds-dangerous-increase-in-ozone-pollution-across-urban-india
+import streamlit as st
+import plotly.express as px
+
+fig = px.line([1, 2, 3], y=[1, 3, 2])
+
+# Create a custom styled div
+css = """
+<div style='border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; margin-bottom: 20px;'>
+"""
+close_div = "</div>"
+
+st.markdown(css, unsafe_allow_html=True)
+st.plotly_chart(fig)
+st.markdown(close_div, unsafe_allow_html=True)

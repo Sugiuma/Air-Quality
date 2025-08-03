@@ -7,7 +7,6 @@
   * \~90 % of respondents were aware of “air pollution” overall
   * But only \~54 % recognized the term “AQI,” 29.6 % PM2.5, and \~18 % PM10 ([arXiv][1], [Carbon Copy][2])
 
-Use this as your baseline for **Tier‑1** and many **Tier‑2** cities.
 
 ### b) **City Tiers & Pollutant Trends**
 

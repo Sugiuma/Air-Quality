@@ -30,7 +30,9 @@
 For deep quantitative analysis, "6Wresearch Air Purifier Shipment Tracker" and region-level sales figures (from CEAMA and ESC) are the closest sources to comprehensive datasets mapping these trends[1][4]. You can supplement these with public AQI data and e-commerce price history or rankings.
 
 [1] https://www.verifiedmarketresearch.com/product/india-air-purifier-market/
+
 [2] https://www.linkedin.com/pulse/india-air-purifier-market-growth-trends-forecast-2025-2033-sharma-xztkc
+
 [3] https://www.imarcgroup.com/india-air-purifier-market
 [4] https://www.business-standard.com/content/specials/high-pollution-and-aqi-levels-boost-air-purifier-sales-in-india-in-q3-2023-philips-leads-as-the-top-brand-123111600818_1.html
 [5] https://timesofindia.indiatimes.com/india/as-air-quality-slumps-air-purifier-sales-see-a-boom-across-delhi-ncr-punjab-haryana-and-mumbai/articleshow/105072735.cms

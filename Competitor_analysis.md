@@ -136,20 +136,5 @@
 | **Subscription**    | Filter subscription service with reminders + doorstep delivery      |
 | **Modularity**      | Swappable filter packs: e.g., "Smoke", "Pet", "Dust" modes          |
 
----
-
-### 🟢 Summary: Positioning Strategy
-
-Affordable **mid-premium purifier** for Indian metros (Tier 1/2), optimized for:
-
-* **PM2.5 and VOC-heavy environments**
-* **Long filter life + low maintenance**
-* **Reliable app, real-time insights, quieter experience**
-
-**Ideal Consumer Segments:**
-
-* Urban families
-* Asthma or allergy-prone users
-* Professionals in cities like Delhi, Bangalore, Mumbai, Chennai
 
 

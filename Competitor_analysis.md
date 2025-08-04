@@ -137,6 +137,35 @@
 | **Modularity**      | Swappable filter packs: e.g., "Smoke", "Pet", "Dust" modes          |
 
 
+---
+
+### ✅❌ **Competitor Feature Presence Matrix**
+
+| **Feature**                          | Xiaomi Mi 3/4 | Coway AirMega  | Philips AC2887 | Sharp FP-F40E |
+| ------------------------------------ | ------------- | -------------- | -------------- | ------------- |
+| **CADR ≥ 400 m³/hr**                 | ❌             | ❌              | ❌              | ❌             |
+| **True HEPA (H13 or better)**        | ❌ (H11–H12)   | ✅ (H13)        | ✅ (H13)        | ❌ (H12)       |
+| **Activated Carbon Filter**          | ✅             | ✅              | ✅              | ✅             |
+| **VOC Removal**                      | ❌             | ❌              | ❌              | ❌             |
+| **Pre-Filter (Washable & Robust)**   | ❌ (Static)    | ✅ (Washable)   | ✅ (Washable)   | ❌ (Basic)     |
+| **Odor Removal (Excellent)**         | ❌             | ❌              | ✅              | ✅             |
+| **Sleep Mode Noise <25 dB**          | ❌ (30–35 dB)  | ✅ (\~22–30 dB) | ❌ (33 dB)      | ❌ (25–32 dB)  |
+| **Stable Auto Mode**                 | ❌             | ❌              | ✅              | ❌             |
+| **Mobile App / Smart Connectivity**  | ✅             | ❌              | ❌              | ❌             |
+| **AQI Display (PM2.5/PM10)**         | ✅             | ✅              | ✅              | ✅             |
+| **Filter Life Indicator**            | ✅             | ✅              | ✅              | ✅             |
+| **No Forced Lockout on Filters**     | ❌             | ✅              | ✅              | ✅             |
+| **Auto Power Resume**                | ✅             | ❌              | ✅              | ✅             |
+| **Coverage ≥ 500 sq.ft.**            | ❌ (\~450)     | ❌ (\~350)      | ❌ (\~410)      | ❌ (\~320)     |
+| **Filter Replacement Cost < ₹2,500** | ❌ (₹2k–₹3k)   | ❌ (₹4k+)       | ❌ (₹3k–₹4k)    | ❌ (\~₹3k)     |
+| **Price within ₹10k–₹14k**           | ✅             | ❌              | ❌              | ✅             |
+
+
+✅ = Feature Present
+❌ = Missing / Below-par / Limited
+
+
+
 ### 🏆 **Feature Presence Comparison Matrix (with Our Product)**
 
 | **Feature**                          | Xiaomi Mi 3/4 | Coway AirMega  | Philips AC2887 | Sharp FP-F40E | ⭐ **Our Product** |

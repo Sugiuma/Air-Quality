@@ -34,22 +34,39 @@ For deep quantitative analysis, "6Wresearch Air Purifier Shipment Tracker" and r
 [2] https://www.linkedin.com/pulse/india-air-purifier-market-growth-trends-forecast-2025-2033-sharma-xztkc
 
 [3] https://www.imarcgroup.com/india-air-purifier-market
+
 [4] https://www.business-standard.com/content/specials/high-pollution-and-aqi-levels-boost-air-purifier-sales-in-india-in-q3-2023-philips-leads-as-the-top-brand-123111600818_1.html
+
 [5] https://timesofindia.indiatimes.com/india/as-air-quality-slumps-air-purifier-sales-see-a-boom-across-delhi-ncr-punjab-haryana-and-mumbai/articleshow/105072735.cms
+
 [6] https://manufacturing.economictimes.indiatimes.com/amp/news/hi-tech/air-purifier-sales-spike-over-50-per-cent-as-aqi-worsens-manufacturers/114962478
+
 [7] https://www.moneycontrol.com/news/companies-2/air-purifier-sales-spike-over-50-as-air-quality-worsens-say-manufacturers-12857878.html
+
 [8] https://www.business-standard.com/industry/news/air-purifier-sales-spike-over-50-as-air-quality-worsens-in-delhi-ncr-124110400988_1.html
+
 [9] https://www.kenresearch.com/industry-reports/india-air-purifiers-market
+
 [10] https://www.marketsandata.com/industry-reports/india-air-purifier-market
+
 [11] https://www.renub.com/india-air-purifier-market-p.php
+
 [12] https://www.prnewswire.com/news-releases/india-air-purifier-markets-2023-2030-1-169-bn-industry-trends-growth-impact-of-inflation-opportunities-company-analysis-301871001.html
+
 [13] https://economictimes.com/industry/services/retail/air-purifier-sales-stagnate-as-marketers-fail-to-capitalise-on-worsening-pollution/articleshow/114949072.cms
+
 [14] https://www.marknteladvisors.com/research-library/india-air-purifier-market.html
+
 [15] https://www.mordorintelligence.com/industry-reports/india-air-purifier-market
+
 [16] https://www.techcircle.in/2022/11/07/air-purifier-demand-increases-30-40-in-india-due-to-bad-air
+
 [17] https://www.grandviewresearch.com/industry-analysis/air-purifier-market
+
 [18] https://www.linkedin.com/pulse/india-air-purifier-market-size-share-trends-industry-analysis-mishra-koyjc
+
 [19] https://indiavoyage.in/indias-air-purifier-boom-a-response-to-escalating-pollution/
+
 [20] https://www.expertmarketresearch.com/reports/india-air-purifier-market
 
 ### 📊 Summary: Air Purifier Sales Trends in High-Pollution Indian Cities

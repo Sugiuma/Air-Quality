@@ -21,33 +21,7 @@ Internet penetration in **Indian metro cities** is significantly higher than sta
 * Penetration is highest in **Delhi, Mumbai, Bangalore**, and **Hyderabad**.
 * **Mobile internet** is the dominant access mode (\~97%+ in metros).
 
----
 
-### ✅ Use in Code (Example)
-
-```python
-internet_penetration_city = {
-    "Delhi": 0.88,
-    "Mumbai": 0.85,
-    "Bangalore": 0.85,
-    "Chennai": 0.83,
-    "Hyderabad": 0.84,
-    "Kolkata": 0.78
-}
-```
-
-Then use:
-
-```python
-estimated_awareness = (search_score / 100) * internet_penetration_city[city]
-```
-
-Would you like to overlay this with your Google Trends data in a bar or heatmap chart to visualize **city-wise AQI awareness potential**?
-
-
-Here are the **approximate internet penetration rates** for the major **Southern Indian states**—based on the most recent public data (TRAI, IAMAI/Kantar, DataReportal, NFHS)—along with a useful reference table you can plug into your awareness model.
-
----
 
 ## 🌐 Internet Penetration Estimates for Southern States (2023–2024)
 
@@ -59,39 +33,7 @@ Here are the **approximate internet penetration rates** for the major **Southern
 | **Tamil Nadu**     | \~ 67%                             | High urban & rural coverage; state digital initiative ([Wikipedia][5], [RSA Regions][4])                           |
 | **Andhra Pradesh** | \~ 59%                             | \~67.1 million internet subscribers in 2023; \~60%+ penetration estimate ([Wikipedia][6], [The Times of India][2]) |
 
----
 
-### ✅ How to Use these in your Python Code
-
-```python
-internet_reach_south = {
-    "Kerala": 0.70,
-    "Telangana": 0.83,
-    "Karnataka": 0.68,
-    "Tamil Nadu": 0.67,
-    "Andhra Pradesh": 0.59
-}
-```
-
-You can then compute:
-
-```python
-estimated_awareness_percent = (float(search_interest) / 100) * internet_reach_south[state] * 100
-```
-
-— where `search_interest` is your Google Trends score.
-
----
-
-### 🧠 Why These Estimates Matter
-
-* These rates combine **NFHS gendered figures** and **state-level internet subscriber data** from TRAI and IAMAI to produce consensus figures.
-* Kerala and Telangana top the list due to both urban saturation and strong digital infrastructure.
-* Andhra Pradesh lags slightly behind but still ranks among **India’s high-penetration southern states**.
-
----
-
-Would you like help building a combined dashboard that matches **search trends, internet reach, and actual AQI levels** for these southern states (or others)?
 
 [1]: https://www.grabon.in/indulge/tech/internet-users-statistics/?utm_source=chatgpt.com "Internet Statistics in India: Usage and Penetration Rate (2025)"
 [2]: https://timesofindia.indiatimes.com/city/hyderabad/telangana-second-only-to-kerala-in-net-subscriptions/articleshow/98787925.cms?utm_source=chatgpt.com "Telangana second only to Kerala in Net subscriptions - Times of India"
@@ -100,10 +42,6 @@ Would you like help building a combined dashboard that matches **search trends, 
 [5]: https://en.wikipedia.org/wiki/Tamil_Nadu?utm_source=chatgpt.com "Tamil Nadu"
 [6]: https://en.wikipedia.org/wiki/Andhra_Pradesh?utm_source=chatgpt.com "Andhra Pradesh"
 
-
-Here are the latest **estimated internet penetration rates** for your top‑10 states, which you can use to refine awareness analysis:
-
----
 
 ### 🌐 Internet Penetration by State (Percent of Population)
 
@@ -128,45 +66,6 @@ Based on aggregated data from TRAI, IAMAI, DataReportal, and other public source
 * Bihar registers the lowest estimates at around **20.6 % female and 43.6 % male**, implying **\~30–37 % penetration** ([FindEasy][1], [GrabOn][2])
 * States like **Punjab, Haryana, Kerala, Maharashtra** report higher figures (in the **upper 60–70 %** range) ([FindEasy][1], [GrabOn][2])
 * National-level average is around **52.4 %** in early 2024 ([DataReportal – Global Digital Insights][3])
-
----
-
-### ✅ How to Apply in Code
-
-Use these approximate penetration rates in your Python model like so:
-
-```python
-internet_reach = {
-    "Delhi": 0.80,
-    "Haryana": 0.66,
-    "Punjab": 0.70,
-    "West Bengal": 0.55,
-    "Rajasthan": 0.52,
-    "Uttar Pradesh": 0.45,
-    "Madhya Pradesh": 0.42,
-    "Odisha": 0.38,
-    "Assam": 0.36,
-    "Bihar": 0.30
-}
-```
-
-Then calculate:
-
-```python
-awareness_percent = (search_interest / 100) * internet_reach[state] * 100
-```
-
----
-
-### 📌 Why These Are Estimates Only
-
-* State-level granular penetration isn't publicly released annually. Data sources like IAMAI ICUBE and TRAI provide samples or segmented demographics.
-* Rural–urban digital gaps remain significant; rates vary internally within a state.
-* There's a gender dimension: urban males often outpace rural females.
-
----
-
-Would you like assistance creating a **table or dashboard** that combines Google Trends data with these internet rates to estimate **state-by-state awareness percentages**? If you have more recent per‑state data, I can help incorporate that, too.
 
 [1]: https://www.findeasy.in/indian-states-by-internet-users/?utm_source=chatgpt.com "Indian States by Internet Users 2024 | Find Easy"
 [2]: https://www.grabon.in/indulge/tech/internet-users-statistics/?utm_source=chatgpt.com "Internet Statistics in India: Usage and Penetration Rate (2025)"

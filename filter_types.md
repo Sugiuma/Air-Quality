@@ -36,15 +36,9 @@
 * High-quality air purifiers use **activated carbon filters** or **HEPA + carbon combo filters** to remove VOCs.
 * In polluted cities, VOCs contribute significantly to **indoor air quality deterioration**, especially during times of outdoor smog.
 
----
-
-Let me know if you'd like a chart showing **VOC levels in different environments** or how to choose a purifier based on VOC filtering capabilities.
-
 ### 🧼 What is **HEPA**?
 
 **HEPA** stands for **High-Efficiency Particulate Air** filter — a specialized filter designed to trap very fine airborne particles.
-
----
 
 ### 🔍 **How HEPA Works**
 
@@ -52,7 +46,6 @@ Let me know if you'd like a chart showing **VOC levels in different environments
 * Captures particles through **interception**, **impaction**, and **diffusion** as air passes through.
 * HEPA filters **do not release particles back** into the air once trapped — unlike basic mesh or ionizers.
 
----
 
 ### 📏 HEPA Efficiency Levels
 
@@ -64,7 +57,6 @@ Let me know if you'd like a chart showing **VOC levels in different environments
 
 ✅ *Note:* When you see “**True HEPA**,” it usually refers to **H13 or higher**.
 
----
 
 ### 🦠 What HEPA Filters Remove
 
@@ -80,23 +72,12 @@ Let me know if you'd like a chart showing **VOC levels in different environments
 
 * **Gases**, **odors**, or **VOCs** (needs **activated carbon** for that)
 
----
-
 ### 🏠 Use HEPA When…
 
 * You live in a **polluted city** (PM2.5/PM10)
 * You have **pets or allergies**
 * You want to **clean indoor air** without generating ozone
 * You're concerned about **health impacts of air quality**
-
----
-
-Would you like help selecting the best **True HEPA air purifiers** by price range or city type?
-
-
-Yes — air purifiers can (and **should**) be chosen based on **use-case, environment, and pollutant type**. Based on your focus on **Tier 1/Tier 2 cities**, **industrial zones**, **indoor spaces**, and **pet-owning households**, here's a categorized breakdown:
-
----
 
 ## 🧹 **Recommended Filter Types by Use-Case**
 
@@ -109,9 +90,8 @@ Yes — air purifiers can (and **should**) be chosen based on **use-case, enviro
 | **Indoor Pollutants (general homes)**    | CO₂ buildup, VOCs from cleaning agents, mold, allergens, dust mites | ✅ **HEPA** <br> ✅ **Activated Carbon** <br> ✅ **Humidity Control (optional)**                                                  | Humidifiers/dehumidifiers can pair well with purifiers for asthma/allergy control |
 | **Asthmatic or Immunocompromised Users** | Dust mites, mold spores, pet allergens, chemical fumes              | ✅ **HEPA H14 (Medical grade)** <br> ✅ **Carbon** <br> ✅ **UV-C / Photocatalytic oxidation**                                    | Choose models with certification (e.g., ECARF, AHAM)                              |
 
----
 
-## 🔧 Filter Types Explained:
+## 🔧Filter Types Explained:
 
 | **Filter Type**                 | **Targets**                              | **Notes**                                                      |
 | ------------------------------- | ---------------------------------------- | -------------------------------------------------------------- |
@@ -123,7 +103,6 @@ Yes — air purifiers can (and **should**) be chosen based on **use-case, enviro
 | **Ionizer/Plasma Filter**       | Fine dust, static pollutants             | May generate ozone; not always recommended for indoor/home use |
 | **Humidifying Filters**         | Dry air, airborne bacteria               | Adds moisture; useful in dry/winter conditions                 |
 
----
 
 ## 🛠 Suggested Configuration by Segment
 
@@ -135,17 +114,5 @@ Yes — air purifiers can (and **should**) be chosen based on **use-case, enviro
 | **Pet Households**         | ≥ 250 m³/hr               | HEPA + Pre-filter (washable) + Carbon + Odor sensors |
 | **Children/Elderly Room**  | ≥ 200 m³/hr               | HEPA + UV-C (for hygiene) + Low-noise modes          |
 
----
-
-## ✅ Actionable Suggestions:
-
-* **Urban homes (Delhi, Mumbai):** Focus on high CADR, HEPA H13, and carbon filters. Brands: Dyson, Philips, Xiaomi Pro series.
-* **Industrial zones (Ghaziabad, Faridabad):** Use purifiers rated for VOC removal — look for carbon filters with chemical adsorption.
-* **Pet homes:** Pre-filter is *crucial*. Also look for deodorizing carbon.
-* **Budget models for Tier 2:** HEPA + Carbon combo without fancy sensors can still offer excellent protection.
-
----
-
-Let me know if you want a **comparison chart of real purifier models** or a **purchase guide by budget range** (e.g., under ₹10K, ₹20K, etc.).
 
 

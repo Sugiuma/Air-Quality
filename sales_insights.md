@@ -29,7 +29,7 @@
 
 For deep quantitative analysis, "6Wresearch Air Purifier Shipment Tracker" and region-level sales figures (from CEAMA and ESC) are the closest sources to comprehensive datasets mapping these trends[1][4]. You can supplement these with public AQI data and e-commerce price history or rankings.
 
-* [1](https://www.verifiedmarketresearch.com/product/india-air-purifier-market/)
+[1] https://www.verifiedmarketresearch.com/product/india-air-purifier-market/
 
 [2] https://www.linkedin.com/pulse/india-air-purifier-market-growth-trends-forecast-2025-2033-sharma-xztkc
 

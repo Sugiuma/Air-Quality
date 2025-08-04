@@ -55,26 +55,3 @@
 | Asansol          | West Bengal     | Coal and steel                             |
 | Tarapur          | Maharashtra     | Industrial area with chemical units        |
 
-### 💡 Use Cases for These Segments:
-
-| Segment                   | Suggested Air Purifier Focus                   |
-| ------------------------- | ---------------------------------------------- |
-| Tier 1                    | Premium purifiers (PM2.5, VOCs, Smart Sensors) |
-| Tier 2                    | Mid-range purifiers with strong PM2.5 filters  |
-| Industrial polluted towns | Rugged, high-capacity, commercial-grade units  |
-
-
-### 📊 Summary: Air Purifier Sales Trends in High-Pollution Indian Cities
-
-| **Aspect**                        | **Insights**                                                                                                                                                     |
-|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Market Size & Growth**         | - $507.5M in 2024 → Projected $1.8B by 2033 (CAGR > 14%)                                                                                                          |
-| **Top Cities**                   | - **Delhi**: ~38% of sales; per capita spending 3x national avg<br>- **Mumbai**: Fastest-growing market; 142% rise in online sales (2020–2023)                 |
-| **Sales Spike Triggers**         | - Seasonal surges during **late autumn & winter** (esp. Oct–Nov)<br>- Spikes linked to **Diwali, stubble burning, AQI > 300**                                   |
-| **Spike Examples**               | - **Q3 2023**: 64% YoY national surge<br>- Diwali weeks: up to **10x** sales in metros<br>- 4–5 day windows saw **15–20%** demand spikes                       |
-| **Brand Insights**               | - Kent, Xiaomi, LG, Philips report up to **50% increase** when AQI worsens<br>- 200% QoQ rise for specific models (Philips, Dyson)                              |
-| **Delhi NCR Trends**             | - 80% of commercial buildings now use purifiers<br>- Sales rise up to 50% in peak pollution season                                                              |
-| **Consumer Behavior**            | - Highly **event/news-driven** buying behavior<br>- **Media coverage** and **AQI headlines** directly influence purchases                                       |
-| **Correlation with AQI**         | - Strong, direct link between **AQI spikes** and **sales/search interest**                                                                                       |
-| **Data Sources**                 | - Shipment Trackers (6Wresearch, AC Nielsen, ESC)<br>- Market Reports (IMARC, Renub, Ken Research)<br>- Google Trends + Govt AQI (CPCB, SAFAR)                 |
-| **Forecasting Opportunity**      | - **Combining AQI + sales data** enables regional demand forecasting<br>- High growth potential in metros & expanding Tier 1 cities                             |

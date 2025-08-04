@@ -137,4 +137,39 @@
 | **Modularity**      | Swappable filter packs: e.g., "Smoke", "Pet", "Dust" modes          |
 
 
+### 🏆 **Feature Presence Comparison Matrix (with Our Product)**
+
+| **Feature**                          | Xiaomi Mi 3/4 | Coway AirMega  | Philips AC2887 | Sharp FP-F40E | ⭐ **Our Product** |
+| ------------------------------------ | ------------- | -------------- | -------------- | ------------- | ----------------- |
+| **CADR ≥ 400 m³/hr**                 | ❌             | ❌              | ❌              | ❌             | ✅                 |
+| **True HEPA (H13 or better)**        | ❌ (H11–H12)   | ✅ (H13)        | ✅ (H13)        | ❌ (H12)       | ✅ (H13–H14)       |
+| **Activated Carbon Filter**          | ✅             | ✅              | ✅              | ✅             | ✅ + VOC           |
+| **VOC Removal**                      | ❌             | ❌              | ❌              | ❌             | ✅                 |
+| **Pre-Filter (Washable & Robust)**   | ❌ (Static)    | ✅ (Washable)   | ✅ (Washable)   | ❌ (Basic)     | ✅                 |
+| **Odor Removal (Excellent)**         | ❌             | ❌              | ✅              | ✅             | ✅                 |
+| **Sleep Mode Noise <25 dB**          | ❌ (30–35 dB)  | ✅ (\~22–30 dB) | ❌ (33 dB)      | ❌ (25–32 dB)  | ✅ (<25 dB)        |
+| **Stable Auto Mode**                 | ❌             | ❌              | ✅              | ❌             | ✅ (AI-based)      |
+| **Mobile App / Smart Connectivity**  | ✅             | ❌              | ❌              | ❌             | ✅ (AQI + Remote)  |
+| **AQI Display (PM2.5/PM10)**         | ✅             | ✅              | ✅              | ✅             | ✅ + Outdoor Sync  |
+| **Filter Life Indicator**            | ✅             | ✅              | ✅              | ✅             | ✅ (No Lockout)    |
+| **No Forced Lockout on Filters**     | ❌             | ✅              | ✅              | ✅             | ✅                 |
+| **Auto Power Resume**                | ✅             | ❌              | ✅              | ✅             | ✅                 |
+| **Coverage ≥ 500 sq.ft.**            | ❌ (\~450)     | ❌ (\~350)      | ❌ (\~410)      | ❌ (\~320)     | ✅ (>500)          |
+| **Filter Replacement Cost < ₹2,500** | ❌ (₹2k–₹3k)   | ❌ (₹4k+)       | ❌ (₹3k–₹4k)    | ❌ (\~₹3k)     | ✅                 |
+| **Price within ₹10k–₹14k**           | ✅             | ❌              | ❌              | ✅             | ✅                 |
+
+---
+
+### 🔍 **What Sets “Our Product” Apart**
+
+* ✅ **Only product** with **400+ CADR + H14 HEPA + VOC removal**
+* ✅ **Quietest sleep mode**
+* ✅ **Smart app with AQI sync and remote access**
+* ✅ **Largest coverage area**
+* ✅ **Most affordable filter replacement**
+* ✅ **No forced lockouts or upsells**
+* ✅ **Balanced pricing for premium features**
+
+
+
 

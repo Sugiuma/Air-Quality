@@ -57,3 +57,11 @@
 [4]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8509169/?utm_source=chatgpt.com "Association between air pollution, body mass index, respiratory symptoms, and asthma among adolescent school children living in Delhi, India - PMC"
 [5]: https://researchmatters.in/news/each-year-about-350000-new-cases-asthma-reported-among-kids-india?utm_source=chatgpt.com "Each year, about 350,000 new cases of asthma reported among kids in India | Research Matters"
 [6]: https://www.hindustantimes.com/india-news/4-million-kids-get-asthma-every-year-due-to-vehicular-pollution-report/story-bzGzRinwdB9KlVi6MVUq9L.html?utm_source=chatgpt.com "4 million kids get asthma every year due to vehicular pollution: Report | Latest News India - Hindustan Times"
+
+
+| **Scenario**                 | **AQI Impact**                 | **Pediatric Pop. (6–14 yrs)** | **Asthma Prevalence (%)** | **# Asthmatic Children** | **Hospitalization Rate (%)** | **Est. Hospitalizations** | **Monthly Cost/Child (₹)** | **Total Direct Monthly Cost (₹)** | **Annual Cost (₹ Crore)** |
+| ---------------------------- | ------------------------------ | ----------------------------- | ------------------------- | ------------------------ | ---------------------------- | ------------------------- | -------------------------- | --------------------------------- | ------------------------- |
+| **Baseline (Clean Air)**     | AQI < 100 (WHO safe)           | 2,500,000                     | 8%                        | 200,000                  | 2%                           | 4,000                     | ₹410                       | ₹8.2 Cr                           | ₹98.4 Cr (\~\$12M)        |
+| **Current (Avg AQI \~250)**  | Moderate–high AQI days common  | 2,500,000                     | 30%                       | 750,000                  | 6%                           | 45,000                    | ₹410                       | ₹30.75 Cr                         | ₹369 Cr (\~\$44M)         |
+| **Severe Spike (AQI > 400)** | Post-Diwali, winter AQI crisis | 2,500,000                     | 35%                       | 875,000                  | 8%                           | 70,000                    | ₹500 (incl. ER visits)     | ₹43.75 Cr                         | ₹525 Cr (\~\$63M)         |
+

@@ -208,3 +208,115 @@ Would you like to make this rule system **dynamic**, so users can change thresho
 | Your sales growth trends (e.g., 64% YoY Q3) | Use as multipliers to generate synthetic `sales` column          |
 | Future AQI forecast (using Prophet)         | Drive projected demand from future AQI                           |
 
+
+Certainly! Here’s a **detailed project report** explaining your demand prediction system based on AQI forecasting using Prophet, including data preparation, forecasting, demand modeling, and filter recommendations.
+
+---
+
+# Project Report: Demand Prediction for Air Purifiers Based on AQI Forecasting
+
+---
+
+## 1. Introduction
+
+The goal of this project is to **predict the future demand for air purifiers in various cities** by analyzing and forecasting the Air Quality Index (AQI) trends. The AQI is a key indicator of air pollution levels, which strongly influence consumer demand for air purifiers.
+
+By forecasting AQI values and applying business rules to interpret spikes and seasonal effects, we aim to generate dynamic, city-specific demand predictions that can guide production, marketing, and inventory planning.
+
+---
+
+## 2. Data Preparation
+
+* **Source Data:** The input dataset (`citywise_trend.csv`) contains monthly AQI readings for multiple cities over several years.
+
+* **Columns:**
+
+  * `City`: City name
+  * `Month`: Month in `YYYY-MM` format
+  * `AQI`: Recorded Air Quality Index value
+
+* **Preprocessing:**
+
+  * The `Month` column is parsed into datetime format (`ds`), compatible with Prophet.
+  * The AQI values are mapped to the target variable `y` for forecasting.
+  * The dataset is filtered by city based on user selection.
+
+---
+
+## 3. AQI Forecasting Using Prophet
+
+* We utilize Facebook's **Prophet** model, a robust time-series forecasting tool that handles seasonality and trends well.
+* Model configuration includes yearly seasonality to capture recurring annual AQI patterns.
+* The model is trained on historical AQI data for the selected city.
+* We generate forecasts for 12 months into the future with monthly frequency.
+
+---
+
+## 4. Demand Prediction Logic
+
+The predicted AQI values from Prophet are then used to estimate **air purifier demand** based on the following business logic:
+
+* **Base Demand:** A user-configurable baseline demand level.
+* **AQI Threshold:** A user-defined AQI value beyond which demand is expected to spike.
+* **Multiplier:** A factor that increases demand when AQI crosses the threshold.
+* **Seasonal Boost:** Additional demand multiplier for specific months with historically high pollution or sales (e.g., October and November for festivals or stubble burning).
+
+### Demand Calculation per Month
+
+For each month in the forecast:
+
+```python
+demand = base
+if AQI > threshold:
+    demand *= multiplier
+if month in seasonal_months:
+    demand *= (1 + seasonal_boost)
+```
+
+The resulting demand is an integer representing the predicted number of units consumers will require.
+
+---
+
+## 5. Visualization
+
+* **Time Series Plot:** A combined line plot shows:
+
+  * Forecasted AQI values (`AQI`)
+  * Corresponding predicted demand (`Predicted Demand`)
+* This visualization helps stakeholders understand how air quality trends drive demand changes.
+
+---
+
+## 6. Filter Recommendations
+
+Based on the forecasted AQI severity, the system dynamically recommends appropriate **air purifier filter types**:
+
+| AQI Range | Air Quality Level | Recommended Filters                                      |
+| --------- | ----------------- | -------------------------------------------------------- |
+| 0 - 100   | Good              | HEPA                                                     |
+| 101 - 200 | Moderate          | HEPA + Activated Carbon                                  |
+| 201 - 300 | Poor              | HEPA + Activated Carbon + UV                             |
+| 301 - 400 | Very Poor         | HEPA + Activated Carbon + UV + Pre-filter                |
+| 401+      | Severe            | HEPA + Activated Carbon + UV + Pre-filter + Ozone Filter |
+
+The recommendation box is visually styled and updated in real-time to reflect projected air quality.
+
+---
+
+## 7. Optional Model Evaluation (Commented)
+
+* The code includes a section for **cross-validation and performance metrics** (MAE, MSE, RMSE) using Prophet's built-in tools, which can be activated to assess forecast accuracy.
+
+---
+
+## 8. Summary and Impact
+
+* The system provides a **data-driven, adaptable approach** to predicting purifier demand by linking it with environmental factors.
+* User-adjustable parameters allow stakeholders to simulate different scenarios, such as stricter AQI thresholds or seasonal effects.
+* Dynamic filter recommendations help marketing and product teams tailor offerings based on anticipated pollution levels.
+* This approach can be extended to new cities or integrated into inventory management for proactive supply chain planning.
+
+---
+
+If you want, I can help you prepare a **presentation deck or executive summary** next!
+

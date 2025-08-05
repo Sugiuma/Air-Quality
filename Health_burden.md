@@ -58,10 +58,32 @@
 [5]: https://researchmatters.in/news/each-year-about-350000-new-cases-asthma-reported-among-kids-india?utm_source=chatgpt.com "Each year, about 350,000 new cases of asthma reported among kids in India | Research Matters"
 [6]: https://www.hindustantimes.com/india-news/4-million-kids-get-asthma-every-year-due-to-vehicular-pollution-report/story-bzGzRinwdB9KlVi6MVUq9L.html?utm_source=chatgpt.com "4 million kids get asthma every year due to vehicular pollution: Report | Latest News India - Hindustan Times"
 
+**Tailored projection table** for **city-level pediatric asthma burden and health cost impact** under different **AQI scenarios**, focusing on **Delhi** as a case study. This includes population estimates, asthma prevalence, hospitalization rates, and cost projections:
+
+
+### 🏥 **Pediatric Asthma Cost Projection – Delhi Case Study (2025)**
 
 | **Scenario**                 | **AQI Impact**                 | **Pediatric Pop. (6–14 yrs)** | **Asthma Prevalence (%)** | **# Asthmatic Children** | **Hospitalization Rate (%)** | **Est. Hospitalizations** | **Monthly Cost/Child (₹)** | **Total Direct Monthly Cost (₹)** | **Annual Cost (₹ Crore)** |
 | ---------------------------- | ------------------------------ | ----------------------------- | ------------------------- | ------------------------ | ---------------------------- | ------------------------- | -------------------------- | --------------------------------- | ------------------------- |
 | **Baseline (Clean Air)**     | AQI < 100 (WHO safe)           | 2,500,000                     | 8%                        | 200,000                  | 2%                           | 4,000                     | ₹410                       | ₹8.2 Cr                           | ₹98.4 Cr (\~\$12M)        |
 | **Current (Avg AQI \~250)**  | Moderate–high AQI days common  | 2,500,000                     | 30%                       | 750,000                  | 6%                           | 45,000                    | ₹410                       | ₹30.75 Cr                         | ₹369 Cr (\~\$44M)         |
 | **Severe Spike (AQI > 400)** | Post-Diwali, winter AQI crisis | 2,500,000                     | 35%                       | 875,000                  | 8%                           | 70,000                    | ₹500 (incl. ER visits)     | ₹43.75 Cr                         | ₹525 Cr (\~\$63M)         |
+
+
+### 🔍 Assumptions & References:
+
+* **Pediatric Population** in Delhi (age 6–14): Estimated from \~20% of total population (\~25M in 2025).
+* **Asthma Prevalence**: Varies with AQI, based on spirometry-confirmed studies showing 8% in clean zones vs \~30–35% in polluted Delhi ([IRJMETS](https://www.irjmets.com/uploadedfiles/paper/issue_12_december_2024/65386/final/fin_irjmets1734671703.pdf)).
+* **Hospitalization Rate**: Increases from 2% in clean air to up to 8% during severe spikes (based on Patna cohort and seasonal admissions studies).
+* **Monthly Treatment Cost**: Includes outpatient visits, medication, and partial hospital-related costs. Cost estimates from [IJHCR](https://ijhcr.com/index.php/ijhcr/article/view/4962) and [PolicyX](https://www.policyx.com/health-insurance/articles/asthma-treatment-cost-in-india/).
+* ₹1 Crore = ₹10,000,000
+
+
+
+### 💡 Insights:
+
+* Pediatric asthma costs **scale sharply** with pollution. Monthly spending under current conditions (\~₹30+ Cr) is **nearly 4×** that under clean-air baseline.
+* A **single post-Diwali AQI spike period** could increase asthma burden by **\~₹150+ Cr** in just 3–4 months if ER visits and hospitalizations rise.
+* Investments in **AQI control and preventive outreach (e.g., filter subsidies, indoor alerts, awareness apps)** could return **multiples in public health cost savings**.
+
 

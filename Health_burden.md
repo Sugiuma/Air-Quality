@@ -24,3 +24,36 @@
 | **Young Adults (18–30)**       | High rates of respiratory symptoms during pollution episodes; loss in school/work productivity.            |
 | **Middle-aged & Older Adults** | Elevated frailty and cognitive decline risk from indoor biomass smoke; long-term pollution → higher mortality. |
 | **Overall**                    | Health burden spans all ages; requires age-targeted interventions.                                          |
+
+**AQI (especially PM₂.₅, PM₁₀, NO₂)** spikes are correlated with **pediatric asthma exacerbations and hospital admissions** in India:
+
+| **Location / Study**                                                              | **Pollutant & AQI Spike**                                | **Health Outcome**                                    | **Quantitative Impact**                                                                           |
+| --------------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Mysore (time-series)** ([PubMed][1])                                            | Daily increases in **NO₂ & PM₂.₅**                       | Hospital admissions for asthma & wheezing             | A 10 µg/m³ rise in NO₂ → \~2.4% increase in admissions; PM₁₀ linear RR ≈ 1.028–1.043 per 10 µg/m³ |
+| **Delhi ER mapping (Mar 2018–Feb 2019)** ([NCBI][2])                              | Seasonal high **PM₂.₅** in winter (“very poor” AQI days) | ER visits for acute pediatric respiratory symptoms    | Winter accounted for \~41% of child ER visits (vs 28% summer, 31% monsoon)                        |
+| **Delhi traffic‑exposure cohort** ([Lippincott Journals][3])                      | Residential proximity to traffic (**NO₂**, PM₁₀)         | Asthma exacerbations in children with existing asthma | Asthmatic episodes were \~1.8× more frequent among traffic‑exposed children                       |
+| **Delhi vs Kottayam/Mysore survey** ([PMC][4])                                    | Chronic ambient PM₁₀/PM₂.₅ (Delhi extremely polluted)    | Asthma prevalence and symptoms                        | Asthma prevalence \~21.7% via questionnaire (vs much lower in cleaner cities)                     |
+| **National burden (vehicle NO₂)** ([researchmatters.in][5], [Hindustan Times][6]) | Traffic-related NO₂ exposure                             | New pediatric asthma cases                            | Around 350,000 annual cases attributable to NO₂ in India (\~13% of global traffic-related cases)  |
+
+---
+
+### &#x20;Narrative Summary
+
+* In **Mysore**, short-term spikes in **NO₂** and **PM₁₀/PM₂.₅** are consistently associated with **increased daily hospital admissions** for children with asthma or wheezing. A 10 µg/m³ rise in NO₂ increases admissions by approximately 2.4% ([PubMed][1]).
+
+* In **Delhi**, **winter months**—when AQI often enters the "very poor" category due to pollutants like PM₂.₅—see the **highest share of pediatric ER visits** for respiratory distress (\~41%) compared to other seasons ([NCBI][2]).
+
+* Children living **near high-traffic roads** (with elevated **NO₂ and PM₁₀** exposure) show nearly **double the asthma exacerbation rate** compared to those in cleaner areas ([Lippincott Journals][3]).
+
+* Broad **urban exposure to ambient PM₂.₅** and traffic-related NO₂ is strongly linked to **higher prevalence of asthma symptoms** among children, e.g. Delhi adolescents report asthma prevalence above 21% versus much lower rates in less polluted southern cities ([PMC][4], [researchmatters.in][5]).
+
+* On a national scale, **about 350,000 new childhood asthma cases per year** in India are estimated to be attributable to **traffic-related NO₂ exposure** ([researchmatters.in][5], [Hindustan Times][6]).
+
+
+
+[1]: https://pubmed.ncbi.nlm.nih.gov/37628320/?utm_source=chatgpt.com "Effects of Ambient Air Pollutants on Hospital Admissions among Children Due to Asthma and Wheezing-Associated Lower Respiratory Infections in Mysore, India: A Time Series Study - PubMed"
+[2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10231737/?utm_source=chatgpt.com "Geographic information system-based mapping of air pollution & emergency room visits of patients for acute respiratory symptoms in Delhi, India (March 2018-February 2019) - PMC"
+[3]: https://journals.lww.com/ijaa/fulltext/2018/32020/study_on_impact_of_air_pollution_on_asthma_among.6.aspx?utm_source=chatgpt.com "Indian Journal of Allergy, Asthma and Immunology"
+[4]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8509169/?utm_source=chatgpt.com "Association between air pollution, body mass index, respiratory symptoms, and asthma among adolescent school children living in Delhi, India - PMC"
+[5]: https://researchmatters.in/news/each-year-about-350000-new-cases-asthma-reported-among-kids-india?utm_source=chatgpt.com "Each year, about 350,000 new cases of asthma reported among kids in India | Research Matters"
+[6]: https://www.hindustantimes.com/india-news/4-million-kids-get-asthma-every-year-due-to-vehicular-pollution-report/story-bzGzRinwdB9KlVi6MVUq9L.html?utm_source=chatgpt.com "4 million kids get asthma every year due to vehicular pollution: Report | Latest News India - Hindustan Times"

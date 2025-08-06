@@ -165,7 +165,7 @@ The resulting demand is an integer representing the predicted number of units co
     
 * This visualization helps stakeholders understand how air quality trends drive demand changes.
 
-Based on the forecasted AQI severity, the system dynamically recommends appropriate **air purifier filter types**:
+Based on the forecasted AQI severity, the code dynamically recommends appropriate **air purifier filter types**:
 
 | AQI Range | Air Quality Level | Recommended Filters                                      |
 | --------- | ----------------- | -------------------------------------------------------- |

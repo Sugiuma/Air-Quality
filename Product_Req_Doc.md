@@ -1,17 +1,5 @@
 ## 🧾 Product Requirements Document (PRD)
 
-### **📌 Product Name**: *AirPure Pro+*
-
-### **📅 Version**: 1.0
-
-### **📍 Owner**: Product Management Team
-
-### **📈 Document Status**: Final
-
-### **📅 Date**: August 6, 2025
-
----
-
 ### **1. Executive Summary**
 
 AirPure Pro+ is a next-generation smart air purifier designed for Indian urban households, aiming to outperform popular competitors in both **air purification efficiency** and **smart features** — while maintaining affordability. This product addresses key gaps found in leading models from Xiaomi, Coway, Philips, and Sharp.

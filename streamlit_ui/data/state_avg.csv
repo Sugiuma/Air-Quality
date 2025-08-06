@@ -1,0 +1,293 @@
+,City,state,aqi_value
+61,Byrnihat,Assam,239.9954268
+36,Begusarai,Bihar,206.6804124
+83,Delhi,Delhi,206.4168889
+104,Greater Noida,Uttar Pradesh,201.601959
+256,Sri Ganganagar,Rajasthan,197.9393512
+106,Gurugram,Haryana,190.8482143
+79,Darbhanga,Bihar,190.0898438
+86,Dharuhera,Haryana,185.7225131
+189,NOIDA,Uttar Pradesh,183.9893238
+102,Ghaziabad,Uttar Pradesh,183.0106762
+95,Faridabad,Haryana,181.9268739
+45,Bhiwadi,Rajasthan,181.6075023
+253,Siwan,Bihar,181.2298547
+213,Patna,Bihar,179.9271111
+111,Hanumangarh,Rajasthan,177.8231966
+69,Chhapra,Bihar,176.2456897
+186,Muzaffarnagar,Uttar Pradesh,175.5742188
+85,Dhanbad,Jharkhand,173.4157509
+239,Samastipur,Bihar,170.8943182
+237,Saharsa,Bihar,169.8715393
+25,Bahadurgarh,Haryana,165.3148751
+15,Araria,Bihar,165.1443914
+249,Singrauli,Madhya Pradesh,165.0894942
+41,Bhagalpur,Bihar,164.6979742
+109,Hajipur,Bihar,164.5253924
+13,Angul,Odisha,163.7013752
+40,Bettiah,Bihar,162.1939163
+147,Katihar,Bihar,161.8394544
+221,Purnia,Bihar,161.5124717
+187,Muzaffarpur,Bihar,161.4237288
+21,Baddi,Himachal Pradesh,160.2570356
+185,Munger,Bihar,158.8612903
+179,Meerut,Uttar Pradesh,158.3505798
+24,Baghpat,Uttar Pradesh,157.2895005
+52,Bikaner,Rajasthan,156.761194
+255,Sonipat,Haryana,156.2389758
+27,Ballabgarh,Haryana,155.5334052
+65,Charkhi Dadri,Haryana,155.4481446
+17,Arrah,Bihar,153.5997693
+59,Buxar,Bihar,152.1456693
+176,Manesar,Haryana,151.8350168
+54,Bileipada,Odisha,151.4455826
+131,Jhunjhunu,Rajasthan,151.201581
+115,Hisar,Haryana,150.692607
+19,Aurangabad,Bihar,150.5220501
+233,Rohtak,Haryana,149.5675393
+57,Bulandshahr,Uttar Pradesh,148.0627803
+173,Mandi Gobindgarh,Punjab,147.450495
+96,Fatehabad,Haryana,145.8604353
+226,Rajgir,Bihar,145.8242424
+18,Asansol,West Bengal,145.4549719
+108,Gwalior,Madhya Pradesh,144.7814509
+134,Jorapokhar,Jharkhand,144.5838926
+195,Nalbari,Assam,144.3767927
+30,Barbil,Odisha,144.2485549
+80,Dausa,Rajasthan,143.0862534
+273,Tonk,Rajasthan,142.90462
+63,Chandigarh,Chandigarh,141.5617778
+132,Jind,Haryana,141.4932432
+26,Balasore,Odisha,141.327619
+47,Bhiwani,Haryana,141.2398287
+88,Dholpur,Rajasthan,140.5410334
+152,Kishanganj,Bihar,139.5623656
+183,Motihari,Bihar,139.4235669
+246,Sikar,Rajasthan,138.994702
+74,Churu,Rajasthan,138.9928367
+136,Kaithal,Haryana,138.5323974
+92,Durgapur,West Bengal,137.5439453
+291,Yamunanagar,Haryana,137.239726
+42,Bharatpur,Rajasthan,137.1329923
+112,Hapur,Uttar Pradesh,137.1327014
+280,Vapi,Gujarat,135.7232472
+192,Nagaur,Rajasthan,135.2610015
+164,Kurukshetra,Haryana,135.0477707
+241,Sasaram,Bihar,135.0463065
+51,Bihar Sharif,Bihar,134.8082524
+34,Barrackpore,West Bengal,134.4617021
+58,Bundi,Rajasthan,133.2087227
+123,Jaipur,Rajasthan,131.3751111
+234,Rourkela,Odisha,131.287844
+166,Lucknow,Uttar Pradesh,131.1235556
+161,Kota,Rajasthan,131.1048387
+60,Byasanagar,Odisha,130.5694981
+207,Panchgaon,Haryana,130.48
+261,Talcher,Odisha,129.6799163
+73,Chittorgarh,Rajasthan,129.4529667
+124,Jaisalmer,Rajasthan,128.3125904
+77,Cuttack,Odisha,128.2616279
+209,Panipat,Haryana,128.2257282
+167,Ludhiana,Punjab,128.0629496
+128,Jalore,Rajasthan,127.7753906
+0,Agartala,Tripura,126.6975845
+133,Jodhpur,Rajasthan,126.6606822
+101,Gaya,Bihar,126.393017
+235,Rupnagar,Punjab,126.1081081
+251,Sirsa,Haryana,126.0961761
+32,Baripada,Odisha,125.3122677
+151,Khurja,Uttar Pradesh,125.2748663
+204,Pali,Rajasthan,124.6308278
+49,Bhubaneswar,Odisha,123.9001883
+148,Katni,Madhya Pradesh,123.7
+201,Navi Mumbai,Maharashtra,122.8488372
+174,Mandideep,Madhya Pradesh,122.1609848
+11,Amritsar,Punjab,121.932757
+3,Ahmednagar,Maharashtra,121.683908
+259,Suakati,Odisha,120.9737171
+243,Sawai Madhopur,Rajasthan,120.6102418
+278,Ujjain,Madhya Pradesh,119.7894737
+107,Guwahati,Assam,119.7104558
+117,Howrah,West Bengal,119.5777778
+48,Bhopal,Madhya Pradesh,118.7558348
+279,Ulhasnagar,Maharashtra,118.7364975
+215,Pithampur,Madhya Pradesh,118.1151405
+202,Nayagarh,Odisha,118.057257
+28,Banswara,Rajasthan,116.7752355
+224,Rairangpur,Odisha,116.7326203
+199,Narnaul,Haryana,116.7136364
+260,Surat,Gujarat,116.5714286
+22,Badlapur,Maharashtra,116.5221519
+288,Visakhapatnam,Andhra Pradesh,116.1070746
+29,Baran,Rajasthan,114.2372093
+2,Ahmedabad,Gujarat,113.5985727
+44,Bhilwara,Rajasthan,112.7557756
+122,Jabalpur,Madhya Pradesh,112.1144414
+149,Keonjhar,Odisha,112.0649007
+220,Pune,Maharashtra,111.972973
+172,Malegaon,Maharashtra,111.9649123
+141,Kanpur,Uttar Pradesh,111.6142222
+208,Panchkula,Haryana,111.6013289
+190,Nagaon,Assam,111.242047
+9,Ambala,Haryana,111.2
+193,Nagpur,Maharashtra,111.1137184
+126,Jalgaon,Maharashtra,110.5135542
+210,Parbhani,Maharashtra,110.4285714
+127,Jalna,Maharashtra,110.0672414
+276,Udaipur,Rajasthan,110.051444
+125,Jalandhar,Punjab,109.8500452
+263,Thane,Maharashtra,109.2920082
+14,Ankleshwar,Gujarat,108.855359
+143,Karnal,Haryana,108.8239061
+35,Bathinda,Punjab,108.7978196
+163,Kunjemura,Chhattisgarh,108.7588424
+138,Kalyan,Maharashtra,108.5247525
+46,Bhiwandi,Maharashtra,108.3594549
+64,Chandrapur,Maharashtra,108.3242754
+142,Karauli,Rajasthan,108.2959184
+198,Nandesari,Gujarat,107.7579909
+105,Gummidipoondi,Tamil Nadu,107.3900227
+129,Jhalawar,Rajasthan,106.9377483
+184,Mumbai,Maharashtra,105.933274
+289,Vrindavan,Uttar Pradesh,105.2518797
+33,Barmer,Rajasthan,104.9732977
+282,Vatva,Gujarat,104.6294896
+182,Moradabad,Uttar Pradesh,104.0595556
+91,Dungarpur,Rajasthan,103.7448454
+211,Pathardih,Jharkhand,103.6153846
+84,Dewas,Madhya Pradesh,103.2202899
+212,Patiala,Punjab,103.1936937
+231,Ratlam,Madhya Pradesh,103.1303116
+89,Dhule,Maharashtra,103.0941558
+197,Nanded,Maharashtra,102.8071672
+274,Tumakuru,Karnataka,102.6666667
+178,Manguraha,Bihar,102.215859
+157,Kolkata,West Bengal,102.0284444
+103,Gorakhpur,Uttar Pradesh,101.4276316
+37,Belapur,Maharashtra,101.1629032
+5,Ajmer,Rajasthan,101.0852273
+120,Imphal,Manipur,100.9273608
+150,Khanna,Punjab,100.16
+216,Pratapgarh,Rajasthan,100.0539811
+153,Kochi,Kerala,99.9754386
+55,Boisar,Maharashtra,99.91556728
+90,Dindigul,Tamil Nadu,98.94056848
+20,Aurangabad,Maharashtra,98.76465028
+82,Dehradun,Uttarakhand,98.16263736
+146,Kashipur,Uttarakhand,98.13880597
+286,Virar,Maharashtra,98.11386139
+121,Indore,Madhya Pradesh,97.64118705
+254,Solapur,Maharashtra,97.33978703
+181,Mira Bhayandar,Maharashtra,96.92368421
+262,Tensa,Odisha,96.836
+227,Rajsamand,Rajasthan,96.82172702
+6,Akola,Maharashtra,94.29881657
+214,Pimpri Chinchwad,Maharashtra,94.21827411
+222,Raichur,Karnataka,94.05596465
+99,Gandhi Nagar,Gujarat,93.98657117
+217,Prayagraj,Uttar Pradesh,93.37377342
+206,Palwal,Haryana,93.15536105
+170,Mahad,Maharashtra,93.03064516
+130,Jhansi,Uttar Pradesh,92.55237154
+156,Kolhapur,Maharashtra,92.47506925
+275,Tumidih,Chhattisgarh,91.34278351
+236,Sagar,Madhya Pradesh,90.87779851
+10,Amravati,Maharashtra,90.86023055
+175,Mandikhera,Haryana,90.66338798
+250,Sirohi,Rajasthan,90.12330827
+7,Alwar,Rajasthan,89.92882883
+97,Firozabad,Uttar Pradesh,88.34375
+56,Brajrajnagar,Odisha,87.02230971
+110,Haldia,West Bengal,86.83190883
+165,Latur,Maharashtra,85.92716237
+116,Hosur,Tamil Nadu,85.65675676
+248,Siliguri,West Bengal,85.53024575
+240,Sangli,Maharashtra,85.3632
+200,Nashik,Maharashtra,84.61033797
+1,Agra,Uttar Pradesh,84.23288889
+66,Chengalpattu,Tamil Nadu,82.44117647
+230,Ranipet,Tamil Nadu,82.30894309
+119,Hyderabad,Telangana,81.01244444
+50,Bidar,Karnataka,80.92674617
+154,Kohima,Nagaland,80.45872518
+223,Raipur,Chhattisgarh,80.20897285
+158,Kollam,Kerala,79.27352298
+272,Tiruppur,Tamil Nadu,77.38529412
+31,Bareilly,Uttar Pradesh,77.16360116
+225,Rajamahendravaram,Andhra Pradesh,76.81767956
+155,Kolar,Karnataka,76.47237077
+68,Chhal,Chhattisgarh,76.04976672
+242,Satna,Madhya Pradesh,75.9566474
+269,Tirumala,Andhra Pradesh,75.77
+39,Bengaluru,Karnataka,74.88533333
+67,Chennai,Tamil Nadu,74.00801425
+72,Chittoor,Andhra Pradesh,73.96183206
+283,Vellore,Tamil Nadu,73.65835411
+87,Dharwad,Karnataka,73.50075415
+238,Salem,Tamil Nadu,73.37113402
+180,Milupara,Chhattisgarh,73.12962963
+160,Korba,Chhattisgarh,73.01330109
+43,Bhilai,Chhattisgarh,72.47154472
+118,Hubballi,Karnataka,72.23827392
+285,Vijayawada,Andhra Pradesh,71.9375
+177,Mangalore,Karnataka,70.35792622
+38,Belgaum,Karnataka,69.75060827
+277,Udupi,Karnataka,69.69789675
+75,Coimbatore,Tamil Nadu,69.5638587
+258,Srinagar,Jammu and Kashmir,69.49543379
+144,Karur,Tamil Nadu,69.25806452
+8,Amaravati,Andhra Pradesh,68.97641509
+53,Bilaspur,Chhattisgarh,68.96367521
+159,Koppal,Karnataka,68.5908558
+271,Tirupati,Andhra Pradesh,68.26290166
+114,Haveri,Karnataka,67.83763838
+162,Kozhikode,Kerala,67.36654804
+219,Pudukottai,Tamil Nadu,67.35582822
+12,Anantapur,Andhra Pradesh,67.19649562
+281,Varanasi,Uttar Pradesh,67.12355556
+135,Kadapa,Andhra Pradesh,66.92207792
+232,Rishikesh,Uttarakhand,66.35505319
+140,Kannur,Kerala,66.0230303
+290,Yadgir,Karnataka,65.64788732
+76,Cuddalore,Tamil Nadu,65.38530735
+267,Thrissur,Kerala,64.62340672
+137,Kalaburagi,Karnataka,64.42767296
+70,Chikkaballapur,Karnataka,63.97733711
+93,Eloor,Kerala,63.32670807
+113,Hassan,Karnataka,63.14675325
+244,Shillong,Meghalaya,62.73112128
+268,Tiruchirappalli,Tamil Nadu,61.35897436
+203,Ooty,Tamil Nadu,60.94827586
+228,Ramanagara,Karnataka,60.57564225
+287,Virudhunagar,Tamil Nadu,60.50207469
+196,Namakkal,Tamil Nadu,59.95454545
+78,Damoh,Madhya Pradesh,58.64987715
+145,Karwar,Karnataka,58.03246753
+266,Thoothukudi,Tamil Nadu,57.94112236
+257,Sri Vijaya Puram,Andaman and Nicobar Islands,57.70689655
+81,Davanagere,Karnataka,56.85027322
+139,Kanchipuram,Tamil Nadu,56.84848485
+218,Puducherry,Puducherry,56.51401869
+169,Madurai,Tamil Nadu,55.9197861
+98,Gadag,Karnataka,55.24063564
+245,Shivamogga,Karnataka,54.77880184
+194,Naharlagun,Arunachal Pradesh,54.48526523
+265,Thiruvananthapuram,Kerala,54.15026834
+100,Gangtok,Sikkim,53.68899522
+171,Maihar,Madhya Pradesh,52.98777506
+16,Ariyalur,Tamil Nadu,51.66954023
+191,Nagapattinam,Tamil Nadu,51.48360656
+188,Mysuru,Karnataka,51.01939058
+284,Vijayapura,Karnataka,50.35188867
+229,Ramanathapuram,Tamil Nadu,47.95995146
+252,Sivasagar,Assam,47.90779363
+247,Silchar,Assam,47.47651007
+71,Chikkamagaluru,Karnataka,47.45570971
+4,Aizawl,Mizoram,47.247
+94,Ernakulam,Kerala,46.93939394
+23,Bagalkot,Karnataka,46.45658537
+264,Thanjavur,Tamil Nadu,44.72222222
+205,Palkalaiperur,Tamil Nadu,43.325
+62,Chamarajanagar,Karnataka,43.05860465
+168,Madikeri,Karnataka,37.8079096
+270,Tirunelveli,Tamil Nadu,32.11013216

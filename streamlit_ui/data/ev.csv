@@ -1,0 +1,36 @@
+,State,EV_Vehicles,Total_Vehicles,ev_percentage,State,avg_aqi
+0,Tripura,21573,178931,12.06,Tripura,126.6975845
+1,Delhi,208092,2086374,9.97,Delhi,206.4168889
+2,Chandigarh,14806,154562,9.58,Chandigarh,141.5617778
+3,Assam,171813,1889297,9.09,Assam,114.1174558
+4,Kerala,175754,2357315,7.46,Kerala,68.07014711
+5,Uttar Pradesh,793274,10782843,7.36,Uttar Pradesh,126.4240363
+6,Karnataka,374839,5413304,6.92,Karnataka,62.67285264
+7,Bihar,253242,4009485,6.32,Bihar,157.1581218
+8,Uttarakhand,48027,806947,5.95,Uttarakhand,87.89879931
+9,Maharashtra,474313,8287915,5.72,Maharashtra,103.6398326
+10,Rajasthan,244182,4679976,5.22,Rajasthan,127.9872484
+11,Jammu And Kashmir,27913,535491,5.21,Jammu And Kashmir,69.49543379
+12,Odisha,115476,2260339,5.11,Odisha,124.8797189
+13,Chhattisgarh,91179,1837962,4.96,Chhattisgarh,78.98632109
+14,Tamil Nadu,252214,5725062,4.41,Tamil Nadu,67.75765434
+15,Puducherry,7263,182420,3.98,Puducherry,56.51401869
+16,Andhra Pradesh,99600,2651214,3.76,Andhra Pradesh,77.507701
+17,Punjab,74116,2009456,3.69,Punjab,117.8542648
+18,Gujarat,201680,5544798,3.64,Gujarat,110.6342719
+19,Madhya Pradesh,172366,4739489,3.64,Madhya Pradesh,108.7164825
+20,Jharkhand,58322,1704838,3.42,Jharkhand,164.9403606
+21,Haryana,88519,2742665,3.23,Haryana,140.8528057
+22,West Bengal,75482,3317399,2.28,West Bengal,114.1928912
+23,Manipur,1295,104848,1.24,Manipur,100.9273608
+24,Mizoram,928,89128,1.04,Mizoram,47.247
+25,Lakshadweep,8,850,0.94,,
+26,Himachal Pradesh,3655,418354,0.87,Himachal Pradesh,160.2570356
+27,Meghalaya,1050,123763,0.85,Meghalaya,62.73112128
+28,Dadra And Nagar Haveli And Daman And Diu,579,69696,0.83,,
+29,Ladakh,80,16851,0.47,,
+30,Andaman And Nicobar Islands,107,24795,0.43,Andaman And Nicobar Islands,57.70689655
+31,Arunachal Pradesh,72,99736,0.07,Arunachal Pradesh,54.48526523
+32,Nagaland,19,83908,0.02,Nagaland,80.45872518
+33,Sikkim,7,34154,0.02,Sikkim,53.68899522
+34,Telangana,0,0,0,Telangana,0

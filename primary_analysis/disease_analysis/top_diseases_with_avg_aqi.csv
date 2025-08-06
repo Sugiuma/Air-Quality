@@ -1,0 +1,76 @@
+State,Disease,Year,Cases,Average_AQI
+Andaman and Nicobar Islands,Acute Diarrheal Disease,2024,76,57.706896551724135
+Andaman and Nicobar Islands,Acute Diarrheal Disease,2023,18,57.706896551724135
+Andhra Pradesh,Acute Diarrheal Disease,2024,2387,78.52901255514082
+Andhra Pradesh,Cholera,2024,1063,78.52901255514082
+Arunachal,Rabies,2025,1,
+Arunachal Pradesh,Acute Diarrheal Disease,2023,239,55.96120689655172
+Arunachal Pradesh,Mumps,2024,133,55.96120689655172
+Assam,Acute Diarrheal Disease,2023,1641,116.73300863404914
+Assam,Food Poisoning,2024,1258,116.73300863404914
+Bihar,Acute Diarrheal Disease,2024,807,153.2626181503676
+Bihar,Dengue,2023,749,153.2626181503676
+Chandigarh,Cholera,2023,16,145.11882352941177
+Chhattisgarh,Acute Diarrheal Disease,2024,5746,79.57718501702611
+Chhattisgarh,Acute Diarrheal Disease,2023,1822,79.57718501702611
+Dadra and Nagar Haveli,Fever of Unknown andigin (PUO),2023,101,
+Dadra and Nagar Haveli,Acute Diarrheal Disease,2025,41,
+Dadra and Nagar Haveli and Daman and Diu,Food Poisoning,2024,24,
+Dadra and Nagar Haveli and Daman and Diu,Acute Diarrheal Disease,2024,13,
+Delhi,Dengue,2023,40,208.85294117647058
+Goa,Cholera,2024,226,
+Goa,Food Poisoning,2025,43,
+Gujarat,Acute Diarrheal Disease,2024,3334,109.1877649909146
+Gujarat,Cholera,2024,1928,109.1877649909146
+Haryana,Cholera,2024,972,136.8625275764261
+Haryana,Acute Diarrheal Disease,2023,377,136.8625275764261
+Himachal Pradesh,Acute Diarrheal Disease,2024,2005,161.01111111111112
+Himachal Pradesh,Hepatitis A,2024,559,161.01111111111112
+Jammu and Kashmir,Dengue,2023,1452,69.71497584541063
+Jammu and Kashmir,Acute Diarrheal Disease,2024,704,69.71497584541063
+Jharkhand,Malaria,2023,5118,165.85472496473906
+Jharkhand,Acute Diarrheal Disease,2024,1142,165.85472496473906
+Karnataka,Acute Diarrheal Disease,2023,3766,63.513838290468165
+Karnataka,Acute Diarrheal Disease,2024,2419,63.513838290468165
+Kerala,Food Poisoning,2023,3541,69.43413729128015
+Kerala,Food Poisoning,2024,3252,69.43413729128015
+Ladakh,Mumps,2024,111,
+Ladakh,Hand Foot and Mouth Disease,2023,52,
+Madhya,Measles,2025,36,
+Madhya,Chickenpox,2025,7,
+Madhya Pradesh,Acute Diarrheal Disease,2024,4169,108.76267281105991
+Madhya Pradesh,Dengue,2024,1336,108.76267281105991
+Maharashtra,Acute Diarrheal Disease,2024,4949,103.44393864423553
+Maharashtra,Food Poisoning,2024,2596,103.44393864423553
+Manipur,Dengue,2024,3007,107.4390243902439
+Manipur,Food Poisoning,2024,119,107.4390243902439
+Meghalaya,Measles,2024,486,73.54058441558442
+Meghalaya,Typhoid,2024,189,73.54058441558442
+Mizoram,Scrub Typhus,2023,233,51.52220726783311
+Mizoram,Food Poisoning,2023,203,51.52220726783311
+Nagaland,Dengue,2023,1244,83.4314789687924
+Nagaland,Acute Diarrheal Disease,2023,60,83.4314789687924
+Odisha,Acute Diarrheal Disease,2024,3395,124.59586035864174
+Odisha,Cholera,2023,3001,124.59586035864174
+Puducherry,Dengue,2023,72,56.647130647130645
+Puducherry,Acute Diarrheal Disease,2023,54,56.647130647130645
+Punjab,Cholera,2024,500,117.09493274945261
+Punjab,Acute Diarrheal Disease,2024,498,117.09493274945261
+Rajasthan,Dengue,2023,836,128.22131817810123
+Rajasthan,Acute Diarrheal Disease,2023,660,128.22131817810123
+Sikkim,Jaundice,2025,136,59.202743902439025
+Sikkim,Typhoid,2023,53,59.202743902439025
+Tamil Nadu,Acute Diarrheal Disease,2024,2056,68.0016332020367
+Tamil Nadu,Mumps,2024,1081,68.0016332020367
+Tamil nadu,Mumps,2024,14,
+Telangana,Acute Diarrheal Disease,2023,362,81.91176470588235
+Telangana,Acute Diarrheal Disease,2024,242,81.91176470588235
+Tripura,Dengue,2023,259,143.61892247043363
+Tripura,Acute Diarrheal Disease,2023,234,143.61892247043363
+Uttar,Human Rabies,2025,1,
+Uttar Pradesh,Acute Diarrheal Disease,2024,2738,123.68845196917289
+Uttar Pradesh,Food Poisoning,2024,1156,123.68845196917289
+Uttarakhand,Dengue,2023,1084,88.10091743119266
+Uttarakhand,Food Poisoning,2025,417,88.10091743119266
+West Bengal,Acute Diarrheal Disease,2024,1883,117.81607077036492
+West Bengal,Acute Diarrheal Disease,2023,1063,117.81607077036492

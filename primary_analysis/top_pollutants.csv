@@ -1,0 +1,17 @@
+,state,top_1,top_2,top_3,top_4,bottom_1,bottom_2
+0,Andhra Pradesh,PM10,PM2.5,O3,CO,NO2,SO2
+1,Karnataka,PM10,CO,PM2.5,O3,NH3,SO3
+2,Kerala,PM10,PM2.5,CO,NO2,NH3,SO2
+3,Tamil Nadu,PM10,PM2.5,CO,SO2,NO2,NH3
+4,Telangana,PM10,PM2.5,CO,O3,O3,NO2
+,state,top_1,top_2,top_3,top_4,bottom_1,bottom_2
+0,Assam,PM10,PM2.5,CO,O3,NO2,SO3
+1,Bihar,PM10,PM2.5,CO,O3,NO2,SO2
+2,Delhi,PM2.5,PM10,O3,CO,CO,NO2
+3,Haryana,PM2.5,PM10,O3,CO,SO2,NH3
+4,Madhya Pradesh,PM10,PM2.5,O3,CO,SO2,SO3
+5,Odisha,PM10,PM2.5,O3,CO,NO2,SO2
+6,Punjab,PM10,PM2.5,CO,O3,NO2,SO2
+7,Rajasthan,PM10,PM2.5,O3,CO,SO2,NH3
+8,Uttar Pradesh,PM10,PM2.5,O3,CO,SO3,NH3
+9,West Bengal,PM10,PM2.5,O3,NO2,SO2,NH3

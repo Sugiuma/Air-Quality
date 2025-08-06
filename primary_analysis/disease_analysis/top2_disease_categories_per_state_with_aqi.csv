@@ -1,0 +1,74 @@
+State,Category,Cases,Rank,Avg_AQI
+Andaman and Nicobar Islands,Foodborne,94,1.0,57.706896551724135
+Andaman and Nicobar Islands,Other,15,2.0,57.706896551724135
+Andhra Pradesh,Foodborne,3995,1.0,78.52901255514082
+Andhra Pradesh,Waterborne,1119,2.0,78.52901255514082
+Arunachal,Zoonotic,1,1.0,
+Arunachal Pradesh,Other,456,1.0,55.96120689655172
+Arunachal Pradesh,Foodborne,290,2.0,55.96120689655172
+Assam,Foodborne,4474,1.0,116.73300863404914
+Assam,Other,1534,2.0,116.73300863404914
+Bihar,Foodborne,1647,1.0,153.2626181503676
+Bihar,Other,1594,2.0,153.2626181503676
+Chandigarh,Waterborne,16,1.0,145.11882352941177
+Chhattisgarh,Foodborne,8465,1.0,79.57718501702611
+Chhattisgarh,Other,1558,2.0,79.57718501702611
+Dadra and Nagar Haveli,Other,133,1.0,
+Dadra and Nagar Haveli,Foodborne,72,2.0,
+Dadra and Nagar Haveli and Daman and Diu,Foodborne,37,1.0,
+Dadra and Nagar Haveli and Daman and Diu,Other,6,2.0,
+Delhi,Vector-borne,40,1.0,208.85294117647058
+Goa,Waterborne,226,1.0,
+Goa,Foodborne,82,2.0,
+Gujarat,Foodborne,6985,1.0,109.1877649909146
+Gujarat,Waterborne,2963,2.0,109.1877649909146
+Haryana,Waterborne,1193,1.0,136.8625275764261
+Haryana,Foodborne,878,2.0,136.8625275764261
+Himachal Pradesh,Foodborne,2181,1.0,161.01111111111112
+Himachal Pradesh,Waterborne,559,2.0,161.01111111111112
+Jammu and Kashmir,Waterborne,1617,1.0,69.71497584541063
+Jammu and Kashmir,Vector-borne,1608,2.0,69.71497584541063
+Jharkhand,Vector-borne,6771,1.0,165.85472496473906
+Jharkhand,Foodborne,2172,2.0,165.85472496473906
+Karnataka,Foodborne,9351,1.0,63.513838290468165
+Karnataka,Waterborne,3729,2.0,63.513838290468165
+Kerala,Foodborne,14098,1.0,69.43413729128015
+Kerala,Other,7857,2.0,69.43413729128015
+Ladakh,Other,163,1.0,
+Madhya,Other,43,1.0,
+Madhya Pradesh,Foodborne,7709,1.0,108.76267281105991
+Madhya Pradesh,Vector-borne,3029,2.0,108.76267281105991
+Maharashtra,Foodborne,11153,1.0,103.44393864423553
+Maharashtra,Vector-borne,4502,2.0,103.44393864423553
+Manipur,Vector-borne,3078,1.0,107.4390243902439
+Manipur,Other,289,2.0,107.4390243902439
+Meghalaya,Other,1470,1.0,73.54058441558442
+Meghalaya,Foodborne,262,2.0,73.54058441558442
+Mizoram,Foodborne,398,1.0,51.52220726783311
+Mizoram,Zoonotic,233,2.0,51.52220726783311
+Nagaland,Vector-borne,1278,1.0,83.4314789687924
+Nagaland,Foodborne,72,2.0,83.4314789687924
+Odisha,Foodborne,8656,1.0,124.59586035864174
+Odisha,Waterborne,3972,2.0,124.59586035864174
+Puducherry,Foodborne,95,1.0,56.647130647130645
+Puducherry,Vector-borne,90,2.0,56.647130647130645
+Punjab,Foodborne,1033,1.0,117.09493274945261
+Punjab,Waterborne,914,2.0,117.09493274945261
+Rajasthan,Foodborne,1754,1.0,128.22131817810123
+Rajasthan,Vector-borne,908,2.0,128.22131817810123
+Sikkim,Other,173,1.0,59.202743902439025
+Sikkim,Waterborne,136,2.0,59.202743902439025
+Tamil Nadu,Foodborne,3463,1.0,68.0016332020367
+Tamil Nadu,Other,2597,2.0,68.0016332020367
+Tamil nadu,Other,14,1.0,
+Telangana,Foodborne,629,1.0,81.91176470588235
+Telangana,Other,16,2.0,81.91176470588235
+Tripura,Foodborne,475,1.0,143.61892247043363
+Tripura,Vector-borne,259,2.0,143.61892247043363
+Uttar,Other,1,1.0,
+Uttar Pradesh,Foodborne,6358,1.0,123.68845196917289
+Uttar Pradesh,Other,1562,2.0,123.68845196917289
+Uttarakhand,Foodborne,1098,1.0,88.10091743119266
+Uttarakhand,Vector-borne,1092,2.0,88.10091743119266
+West Bengal,Foodborne,5636,1.0,117.81607077036492
+West Bengal,Other,526,2.0,117.81607077036492

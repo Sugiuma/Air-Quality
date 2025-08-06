@@ -11,15 +11,6 @@
 - **Sales Correlate Directly with AQI Spikes:** Manufacturers and market trackers report that air purifier sales and search/interest surge immediately when AQI worsens, particularly when news headlines highlight hazardous smog or AQI crosses the 300–500 range in Delhi, Mumbai, and northern cities[5][6][7][8][4]. For example, Q3 2023 shipment data revealed a 64% YoY growth for purifiers as pollution soared[4].
 - **Consumer Sentiment:** Companies like Philips, Xiaomi, and Dyson report double-digit sales growth and up to a 200% quarter-over-quarter increase for specific models as pollution headlines trend[4][5]. Greater health awareness, media coverage, and government advisories amplify spikes in purchasing.
 
-### Datasets and Data Sources
-
-- **Shipment and Sales Trackers:** Industry shipment trackers (such as 6Wresearch, AC Nielsen India, and ESC) aggregate quarterly and seasonal detailed sales and market share, including spikes aligned with AQI events[4][1].
-- **Public Market Reports:** Third-party research platforms (e.g., IMARC Group, Renub Research, Ken Research) regularly publish market size, growth rates, and city-specific trends, often providing digital dashboards or data tables with year-wise or even monthly breakdowns[2][1][3][9].
-- **No Open Raw Retail Dataset, But…** While comprehensive, open-access raw datasets directly correlating AQI and sales aren’t public, you can analyze:
-  - **Government AQI data** (CPCB, SAFAR, Open Government Data)
-  - **E-commerce air purifier sales rankings** during spike periods (from Amazon, Flipkart—using price/comparison scrapers, or by request from retailers)
-  - **Google Trends** for search term frequency: “air purifier” vs. AQI headlines
-
 ### Key Insights—Actionable Takeaways
 
 - **Market is highly sensitive to acute pollution events**; air purifier purchases in India are still highly event- and news-driven.
@@ -78,9 +69,7 @@
 | **Brand Insights**               | - Kent, Xiaomi, LG, Philips report up to **50% increase** when AQI worsens<br>- 200% QoQ rise for specific models (Philips, Dyson)                              |
 | **Delhi NCR Trends**             | - 80% of commercial buildings now use purifiers<br>- Sales rise up to 50% in peak pollution season                                                              |
 | **Consumer Behavior**            | - Highly **event/news-driven** buying behavior<br>- **Media coverage** and **AQI headlines** directly influence purchases                                       |
-| **Correlation with AQI**         | - Strong, direct link between **AQI spikes** and **sales/search interest**                                                                                       |
-| **Data Sources**                 | - Shipment Trackers (6Wresearch, AC Nielsen, ESC)<br>- Market Reports (IMARC, Renub, Ken Research)<br>- Google Trends + Govt AQI (CPCB, SAFAR)                 |
-| **Forecasting Opportunity**      | - **Combining AQI + sales data** enables regional demand forecasting<br>- High growth potential in metros & expanding Tier 1 cities                             |
+| **Correlation with AQI**         | - Strong, direct link between **AQI spikes** and **sales/search interest**                                                              
 
 from above data we can see
 
@@ -102,7 +91,6 @@ from above data we can see
 **exploratory product-market fit** 
 
 Used historical AQI data and observed seasonal trends in purifier interest to build heuristic-based demand rules.
-
 
 **Higher AQI = higher purifier demand**
 

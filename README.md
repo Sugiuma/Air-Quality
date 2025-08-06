@@ -79,4 +79,43 @@ This project empowered decision-makers with:
 * **Predictive tools** for seasonal planning
 * A solid base for launching a **D2C e-commerce platform** in high-risk cities
 
+import streamlit as st
+from tabs.static_content import show_static_content  # Your collapsible section
+from PIL import Image
+
+# -------------------- PAGE SETUP --------------------
+st.set_page_config(layout="wide", page_title="Air Quality Insights", page_icon="🌫️")
+
+# -------------------- LANDING TAB --------------------
+tabs = st.tabs(["🏠 Overview", "📈 Forecast", "🌆 City Analysis", "📋 Feature Comparison"])
+
+with tabs[0]:
+    st.markdown("<h1 style='color:#1f77b4;'>🌫️ Air Quality Insights & Demand Dashboard</h1>", unsafe_allow_html=True)
+
+    st.markdown("""
+    <div style='background-color:#f9f9f9; padding:20px; border-radius:10px;'>
+    <h4>🧠 What is this?</h4>
+    <p>This interactive dashboard analyzes air quality trends across Indian cities, predicts purifier demand using AQI-driven logic, and benchmarks market competitors. Built using <b>Python, Streamlit, and Prophet</b>, it empowers smarter product decisions.</p>
+
+    <h4>🚀 Key Highlights</h4>
+    <ul>
+        <li>🔮 Forecast AQI & purifier demand for the next 3 years</li>
+        <li>🗺️ Identify Tier-1 & Tier-2 launch cities using risk scoring</li>
+        <li>📊 Simulate demand based on AQI, population, affordability</li>
+        <li>📋 Feature-wise comparison of top brands vs. Our Product</li>
+        <li>📱 Deployed as a live D2C-style product intelligence tool</li>
+    </ul>
+
+    <h4>🔍 Why it stands out</h4>
+    <p>Unlike static dashboards, this app uses <b>AI-based forecasting</b> and <b>interactive simulation</b> to support real-world product strategy. It's fully code-transparent, modular, and built from the ground up using Python.</p>
+    </div>
+    """, unsafe_allow_html=True)
+
+    # Optional: Add your product image or AQI graphic
+    # image = Image.open("images/airpurifier.jpg")
+    # st.image(image, caption="Our Product - Smart Air Purifier")
+
+    # Show static overview collapsible content
+    show_static_content()
+
 

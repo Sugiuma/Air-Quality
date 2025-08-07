@@ -6,12 +6,11 @@
 To analyze city-level air quality data in India, correlate pollution levels with consumer demand triggers, and build a dynamic dashboard with predictive features to support product launch decisions for a smart air purifier. The end goal was to identify high-opportunity cities, seasons, and pricing models — and to validate product features via competitive benchmarking.
 
 ### 🔍 **Problem Statement**
-Air purifier sales in India are seasonal and highly correlated with poor AQI events (e.g., post-Diwali, stubble burning). However, current market solutions lack personalization, affordability, and smart features. This project aims to:
-
-* Identify **which cities** have the greatest need and market opportunity
-* Forecast **seasonal demand** using AQI trends
-* Compare **feature gaps** in competitor products
-* Build a **Streamlit dashboard** to track and simulate demand
+"AirPure Innovations" is a startup born out of the air quality crisis in India, with 14 cities ranking among the world’s top 20 most polluted urban centers. The company is in the early stages of product development and is unsure whether there is a strong, sustained demand for its air purifier product. Before committing to production and R&D, they need to answer critical questions:
+1. What pollutants or particles should their air purifier target?
+2. What are the most essential features that should be incorporated into the air purifier?
+3. Which cities have the highest demand for air purifiers, and what is the market size in these regions?
+4. How can R&D be aligned with localized pollution patterns?
 
 ## 🔧 Tech Stack
 
@@ -28,7 +27,7 @@ Air purifier sales in India are seasonal and highly correlated with poor AQI eve
 ### ✅ **1. Data Collection & Cleaning**
 * Loaded and cleaned historical AQI datasets across major Indian cities (CSV files)
 * Merged AQI trends with population projections, income estimates, and healthcare data
-* Derived **Risk Scores** based on AQI severity, pediatric asthma rates, and healthcare access
+* Derived **Risk Scores** based on AQI severity, population and income levels.
 
 ### ✅ **2. Exploratory Data Analysis**
 * Identified spikes in AQI post-Diwali and during crop-burning months (Oct–Dec)

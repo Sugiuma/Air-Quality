@@ -57,7 +57,7 @@ Key components:
 ### 📁 **Codebase**
 * Modular Python files:
   * `app.py`: main Streamlit app
-  * `tabs/static_content.py`: collapsible product overview
+  * `tabs/static_content.py`: collapsible dashboard overview
  
 ### 🌐 **Deployment**
 * Hosted on Streamlit Community Cloud

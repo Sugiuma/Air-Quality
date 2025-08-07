@@ -1,6 +1,4 @@
-## 📘 Project Summary
-
-### **Title**: Air Quality Insights & Smart Purifier Market Prioritization Dashboard
+## 📘 Project Summary -  Air Quality Insights & Smart Purifier Market Prioritization Dashboard
 
 ### 🔍 **Problem Statement**
 "AirPure Innovations" is a startup born out of the air quality crisis in India, with 14 cities ranking among the world’s top 20 most polluted urban centers. The company is in the early stages of product development and is unsure whether there is a strong, sustained demand for its air purifier product. Before committing to production and R&D, they need to answer critical questions:

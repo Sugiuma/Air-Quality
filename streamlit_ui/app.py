@@ -533,8 +533,7 @@ with tab3:
 
 
 # Footer
-st.markdown("---")
-st.markdown(html_content, unsafe_allow_html=True)
+
 st.markdown("<hr><center><sub> 📁 Data Source: Consolidated AQI, Population, Disease, Vehicle datasets | A Codebasics RPC | Powered by Dataful</sub></center>",unsafe_allow_html=True)
 st.markdown(
     """
@@ -550,3 +549,4 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+

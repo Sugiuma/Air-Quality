@@ -1,8 +1,8 @@
 ## 🧾 Product Requirements Document (PRD)
 
-### **1. Executive Summary**
+### **1. Introduction**
 
-AirPure Pro+ is a next-generation smart air purifier designed for Indian urban households, aiming to outperform popular competitors in both **air purification efficiency** and **smart features** — while maintaining affordability. This product addresses key gaps found in leading models from Xiaomi, Coway, Philips, and Sharp.
+AirPure Pro+ is a next-generation smart air purifier designed for Indian urban households by **Airpure Innovations**, aiming to outperform popular competitors in both **air purification efficiency** and **smart features** — while maintaining affordability. This product addresses key gaps found in leading models from Xiaomi, Coway, Philips, and Sharp.
 
 ---
 
@@ -43,7 +43,38 @@ AirPure Pro+ is a next-generation smart air purifier designed for Indian urban h
 | **Auto Power Resume**         | Yes (after power cuts)                         |
 | **Coverage Area**             | ≥ 500 sq.ft.                                   |
 | **Filter Replacement Cost**   | < ₹2,500                                       |
-| **Price Point**               | ₹10,000 – ₹14,000                              |
+| **Price Point**               | ₹6,000 – ₹16,000+                              |
+
+**Tiered Pricing & Feature Allocation**
+| Tier        | Price Range       | Target Segment            | Included Features                                                                                                                                                                                                            |
+| ----------- | ----------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Basic**   | ₹6,000 – ₹8,000   | Budget-conscious homes    | - True HEPA H13 filter  <br> - Pre-filter (Washable)  <br> - CADR ≥ 250 m³/hr  <br> - Auto Power Resume  <br> - Filter Life Indicator                                                                                        |
+| **Mid**     | ₹8,000 – ₹12,000 | Health-conscious families | - CADR ≥ 400 m³/hr  <br> - True HEPA H13+  <br> - Activated Carbon + VOC filter <br> - Sleep Mode <25 dB  <br> - AQI Display (PM2.5) <br> - Stable Auto Mode                                                                 |
+| **Premium** | ₹16,000+          | Smart urban households    | - AI-based Auto Mode <br> - App Control + AQI Sync  <br> - Outdoor AQI Display <br> - Odor & VOC Removal <br> - Coverage ≥ 500 sq.ft. <br> - No Filter Lockout <br> - Quietest Sleep Mode <br> - Filter Replacement < ₹2,500 |
+
+
+### R\&D Scope: Localized Feature Innovation Based on AQI Patterns
+#### Identified Local Trends
+
+| City Pattern                              | Insight / Opportunity                                   |
+| ----------------------------------------- | ------------------------------------------------------- |
+| **Delhi NCR, Ludhiana**                   | Extreme VOC & PM2.5 levels → R\&D on ultra VOC filters  |
+| **Chennai, Kochi**                        | High humidity → Explore mold-resistant filters          |
+| **Bangalore, Pune**                       | Tech-savvy buyers → Smart IoT + App integrations        |
+| **Lucknow, Patna, Kanpur**                | High AQI spikes in winter → Boost pre-filter durability |
+| **North India (Nov–Jan)**                 | Seasonal spikes → Auto-mode AI tuning for winter        |
+| **South India (Year-round moderate AQI)** | Emphasis on quiet operation & compact design            |
+
+
+### 🔬 R\&D Focus Areas (In Scope)
+
+| Area                | R\&D Feature                                       | Purpose                             |
+| ------------------- | -------------------------------------------------- | ----------------------------------- |
+| **Filter Tech**     | Modular filter packs ("Smoke", "Dust", "Pet")      | Customize for region-specific needs |
+| **AI/ML**           | AI-powered AQI prediction for auto-mode adjustment | Preemptively manage spikes          |
+| **Smart Control**   | Real-time AQI sync with external sensors           | Improve data accuracy               |
+| **Eco Design**      | Energy-saving modes based on AQI + usage           | Sustainability + cost efficiency    |
+| **Health Insights** | Personalized exposure score in app                 | Differentiator for urban families   |
 
 ---
 
@@ -58,7 +89,7 @@ AirPure Pro+ is a next-generation smart air purifier designed for Indian urban h
 * ✅ Industry-lowest **filter replacement cost**
 * ✅ **Balanced pricing** for premium features
 
----
+
 
 ### **6. Functional Requirements**
 

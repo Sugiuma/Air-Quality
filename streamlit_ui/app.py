@@ -534,4 +534,19 @@ with tab3:
 
 # Footer
 st.markdown("---")
-st.caption("📁 Data Source: Consolidated AQI, Population, Income | Powered by Streamlit & Plotly")
+st.markdown(html_content, unsafe_allow_html=True)
+st.markdown("<hr><center><sub> 📁 Data Source: Consolidated AQI, Population, Disease, Vehicle datasets | A Codebasics RPC | Powered by Dataful</sub></center>",unsafe_allow_html=True)
+st.markdown(
+    """
+    <div style="text-align:center;">
+        <a href="https://codebasics.io/" target="_blank" style="color:blue; font-weight:bold; text-decoration:none;">
+            Codebasics
+        </a> 
+        | 
+        <a href="https://dataful.in/" target="_blank" style="color:blue; font-weight:bold; text-decoration:none;">
+            Dataful
+        </a>
+    </div>
+    """,
+    unsafe_allow_html=True
+)

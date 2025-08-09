@@ -40,8 +40,9 @@
 
 
 ## 📈 Deliverables
-### 📊 **Interactive Streamlit Dashboard**
+### 📊 **Interactive Streamlit Dashboard & Product Requirement Document**
 [Dashboard](https://aqianalysis-dfjvztzrg6rpcbrdz5ymya.streamlit.app/)
+[Product Requirement Document](https://github.com/Sugiuma/Air-Quality/blob/main/Product_Req_Doc.md)
 
 Key components:
 * Collapsible **static overview** of insights
@@ -52,6 +53,29 @@ Key components:
 * Modular Python files:
   * `app.py`: main Streamlit app
   * `tabs/static_content.py`: collapsible dashboard overview
+
+
+## 🚀 Steps to Run Locally
+1. **Clone the repository**
+
+2. **Create a virtual environment (optional but recommended)**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate    # On Mac/Linux
+   venv\Scripts\activate       # On Windows
+   ```
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+   
+4. **Run the Streamlit app**
+   ```bash
+   streamlit run app.py
+   ```
+
+5. **Access the app**
+   Open the link shown in the terminal (usually `http://localhost:8501`) in your browser.
  
 ### 🌐 **Deployment**
 * Hosted on Streamlit Community Cloud

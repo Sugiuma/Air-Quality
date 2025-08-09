@@ -32,7 +32,7 @@
 * Created a detailed comparison matrix of competitor air purifiers (Xiaomi, Coway, Philips, Sharp)
 * Highlighted critical gaps: CADR, H13+ HEPA, smart app, coverage area, and pricing
 * Positioned “Our Product” as a high-value, AI-driven purifier with low cost of ownership
-* 
+  
 ### ✅ **4. Predictive Analysis**
 * Used `Prophet` to forecast AQI trends for the next 12 months for Tier-1/2 cities
 * Estimated **potential purifier demand** 

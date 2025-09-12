@@ -45,6 +45,8 @@
 
 [Product Requirement Document](https://github.com/Sugiuma/Air-Quality/blob/main/Product_Req_Doc.md)
 
+[Video presentation](https://lnkd.in/g_AZhpTS)
+
 Key components:
 * Collapsible **static overview** of insights
 * City-wise AQI and demand forecast tabs

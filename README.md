@@ -45,7 +45,7 @@
 
 [Product Requirement Document](https://github.com/Sugiuma/Air-Quality/blob/main/Product_Req_Doc.md)
 
-[Video presentation](https://lnkd.in/g_AZhpTS)
+[Video presentation](https://www.youtube.com/watch?v=fart_dPZcOg)
 
 Key components:
 * Collapsible **static overview** of insights
